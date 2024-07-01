@@ -56,8 +56,6 @@ streamlit run app.py
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 import torch
 
-# Load the fine-tuned model and tokenizer
-
 model_name_or_path = "./fine_tuned_model"  # Use the directory where you saved the model
 model = GPT2LMHeadModel.from_pretrained(model_name_or_path)
 
