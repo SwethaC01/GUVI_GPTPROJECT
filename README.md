@@ -53,27 +53,45 @@ streamlit run app.py
 
 2. Interact with the Model: Enter seed text and generate text using the Streamlit interface.
 
+from transformers import GPT2LMHeadModel, GPT2Tokenizer
 import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer
 
-model_name = "path_to_your_finetuned_model_on_hugging_face"
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForCausalLM.from_pretrained(model_name)
+# Load the fine-tuned model and tokenizer
 
+model_name_or_path = "./fine_tuned_model"  # Use the directory where you saved the model
+model = GPT2LMHeadModel.from_pretrained(model_name_or_path)
+
+token_name_or_path = "./fine_tuned_model"  # Use the directory where you saved the tokenizer
+tokenizer = GPT2Tokenizer.from_pretrained(token_name_or_path)
+
+# Move the model to GPU if available
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
-def generate_text(seed_text, max_length=100, temperature=1.0):
-    inputs = tokenizer(seed_text, return_tensors='pt')
-    input_ids = inputs['input_ids'].to(device)
+# Define the text generation function
+def generate_text(model, tokenizer, seed_text, max_length=100, temperature=1.0, num_return_sequences=1):
+    # Tokenize the input text
+    input_ids = tokenizer.encode(seed_text, return_tensors='pt').to(device)
 
+    # Generate text
     with torch.no_grad():
-        outputs = model.generate(input_ids, max_length=max_length, temperature=temperature)
-    
-    return tokenizer.decode(outputs[0], skip_special_tokens=True)
+        output = model.generate(
+            input_ids,
+            max_length=max_length,
+            temperature=temperature,
+            num_return_sequences=num_return_sequences,
+            do_sample=True,
+            top_k=50,
+            top_p=0.95,
+        )
 
-seed_text = "Your seed text here"
-print(generate_text(seed_text))
+    # Decode the generated text
+    generated_texts = []
+    for i in range(num_return_sequences):
+        generated_text = tokenizer.decode(output[i], skip_special_tokens=True)
+        generated_texts.append(generated_text)
+
+    return generated_texts
 
 ## Disclaimer
 
