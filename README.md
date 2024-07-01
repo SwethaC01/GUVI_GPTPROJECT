@@ -131,6 +131,3 @@ You can interact with the model through the Streamlit app or use the provided ex
 
 6. Is this project affiliated with GUVI?
 No, this project is not affiliated with GUVI. It is an independent project that uses a dataset collected from various websites.
-
-7. What should I do if I encounter an issue?
-If you encounter any issues, feel free to open an issue on the GitHub repository or contact me directly.
