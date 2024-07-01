@@ -62,11 +62,11 @@ model = GPT2LMHeadModel.from_pretrained(model_name_or_path)
 token_name_or_path = "./fine_tuned_model"  # Use the directory where you saved the tokenizer
 tokenizer = GPT2Tokenizer.from_pretrained(token_name_or_path)
 
-# Move the model to GPU if available
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
 # Define the text generation function
+
 def generate_text(model, tokenizer, seed_text, max_length=100, temperature=1.0, num_return_sequences=1):
     # Tokenize the input text
     input_ids = tokenizer.encode(seed_text, return_tensors='pt').to(device)
