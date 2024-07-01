@@ -1,0 +1,475 @@
+gu vi is known as grab ur vern acular imprint gu vi is an online platform based in ind ia that offers computer programming courses in various native languages founded by ar un pra k ash s ride vi ar un pra k ash and sp bal am ur ug an gu vi started as a youtube channel in 2011 posting video tutorials and courses in tam il tel ugu and mar athi to make technical education accessible to those not fluent in english in 2014 the founders quit their jobs and launched gu vi as a company with an initial capital of 1 000 000 incub ated at the rural technology and business incub ator r t bi of i it mad ras gu vi officially launched in no ve mber 2014 after raising seed funding of 500 000 gu vi s commitment to providing accessible and affordable tech education in vern acular languages has made it a significant player in the ed tech space in ind ia
+
+core features
+1 vern acular learning gu vi offers courses in multiple ind ian languages including tam il tel ugu hind i and k ann ada making it easier for students to understand complex technical concepts
+2 tech focused courses the platform provides a wide range of courses in areas such as programming data science web development machine learning and more
+3 gam ified learning gu vi incorporates gam ification elements to make learning more engaging and interactive
+4 cod ek ata a unique feature of gu vi cod ek ata is a coding practice platform designed to help learners improve their coding skills through regular practice and challenges
+
+services
+online courses comprehensive tech courses covering various programming languages and technologies
+live classes interactive live sessions with experienced instructors
+intern ships and placement assistance gu vi partners with various companies to offer intern ships and placement opportunities to its learners
+corporate training customized training programs for corporate employees to up skill them in the latest technologies
+
+impact
+user base gu vi has a growing community of learners across ind ia and beyond with thousands of students benefiting from its courses
+social impact by offering courses in native languages gu vi is breaking language barriers and enabling more people to access quality tech education
+
+mission statement
+gu vi s mission is to make technical education accessible to everyone in their native languages delivering world class learning experiences and highly effective learning solutions their goal is to break the language barrier in tech learning for over 2 million learners worldwide
+
+key achievements and milestones
+in 2019 gu vi raised 10 000 000 from gray matters capital s ed l abs in their first institutional funding round
+in 2020 they raised 60 000 000 in a pre series a round from the education catalyst fund managed by c ba capital
+conduct ed the all ind ia robotic process automation skill athon with u ip ath in j une 2020 involving over 400 colleges and 60 000 participants
+off ered free online coding courses during the cov id 19 lockdown in march 2020
+gu vi is officially registered as gu vi geek network private limited and has partnered with eminent institutions such as i it mad ras and ann a university
+selected as a technical content partner for i it m s q ee e quality enhancement in engineering education and won the c hen nai crowd product pitch
+recogn ized as one of the top 10 startups led by women in ind ia by google launch pad and actively engaged in the google for startups accelerator
+conduct ed as ia s 2 nd largest a i hack athon code in ind ia and was selected among the top 50 startups in ind ia by i ig p 2 0 t ata trusts
+inv ited to the google i o meet in cal if ornia and won equity free seed funding at empower accelerating women entrepreneurship
+created a gu inness world record through a i for ind ia 1 0 and surpassed 1 million learners recognized by hol oh iq as one of the 100 most promising ed tech s in south as ia
+part nered with u ip ath and google for education associated with the h cl group and awarded most trusted vern acular ed tech brand by z ee digital
+selected as the top ed tech company by t ns dc s na an mud hal van initiative
+em powered over 30 000 women with tech skills through the a i for women initiative and achieved over 2 million learners in a year
+
+expl ore a world class learning experience
+if you re looking for an ed tech program that can break language barriers in the field of programming then you re in the right place gu vi is a revolutionary platform that makes tech learning accessible in multiple vern acular languages giving everyone the chance to study and know more about it values it provides you with multiple courses that are constantly updated ensuring that you can stay updated with the latest technologies
+
+this particular platform also features cod ek ata an interactive outlet that can help you practice various programming principles with over 1 000 programming problems carefully selected by veterans this process proves to be more than just a practice tool it can track your performance develop a customized coding profile and offer hints to improve your skills you can conveniently use it to prepare for coding interviews because it can boost your confidence
+
+how ever what sets this program apart from other ed tech platforms is its personalized approach all of your learning activities data and progress are meticulously tracked plus it creates a detailed user activity profile that you can share with in app recruit ers offering exciting job opportunities however users need to know that you must have 100 progression for all quizz es and submissions to get a gu vi certification
+access various courses through gu vi
+over all the gu vi ed tech platform is the ideal choice for those who want to enhance their skills in the field of information technology with courses in different vern acular languages sought after topics the latest technologies cod ek ata and a personalized approach rest assured that the app can significantly improve your abilities the only downside is that to get a gu vi certification you must have 100 in all available quizz es and submissions
+
+how to pass full stack developer interview
+how to prepare for a full stack developer interview 5 tips to success
+introdu ction
+tip 1 understand the job requirements
+tip 2 full stack developer interview preparation
+tip 3 prepare for behavioral questions
+tip 4 show your passion for web development
+tip 5 demonstrating cultural alignment
+con clusion
+five stages
+the hiring process typically consists of five stages job posting and advertising resume screening and candidate evaluation interviews and assessment decision making and offer and onboard ing and integration
+how long is the hiring process
+on average the hiring process lasts three to six weeks factors determining the hiring process length include the position level the number of applicants and the hiring manager s experience level recruit ers and hiring managers consider the candidate s experiences and how those relate to the position when dec id in
+
+top 10 gu vi alternatives competitors
+gu vi alternatives competitor is up shift
+gu vi alternatives competitor is thumb t ack
+gu vi alternatives competitor is 99 design s
+gu vi alternatives competitor is help ware
+gu vi alternatives competitor is task r abbit
+gu vi alternatives competitor is am azon mechanical tur k
+gu vi alternatives competitor is finger h ut recruiting
+gu vi alternatives competitor is won olo
+
+gu vi employs a variety of innovative educational method ologies to ensure that learning is effective engaging and applicable to real world scenarios
+
+inter active learning
+gu vi interactive learning approach involves engaging students through quizz es coding exercises and interactive videos this method helps reinforce learning and keeps students actively involved in their educational journey
+
+hands on coding
+hands on coding is at the core of gu vi educational philosophy the integrated coding platform allows students to practice coding in real time providing immediate feedback and a practical understanding of programming concepts
+
+real world projects
+gu vi emphasizes the importance of real world projects to bridge the gap between theoretical knowledge and practical application students work on industry relevant projects that simulate real world challenges enhancing their problem solving skills and preparing them for the job market
+
+course descriptions
+
+1 certified full stack development course with a i tools 3 months week days 5 months weekends online live classes lifetime access to recorded videos placement guidance with 200 hiring partners em i options up to 12 months language tam il k ann ada hind i english technologies covered python m ong od b pand as n umpy table au power bi
+
+2 certified advanced programmer with data science mastery program duration 3 months week days 5 months weekends format online live classes lifetime recorded videos placement placement guidance with 600 hiring partners em i options up to 12 months language english hind i tam il technologies covered python mysql pand as n umpy n lp ml data visualization table au power bi
+
+3 automation testing with se len ium duration 5 months format online live classes lifetime recorded videos placement placement guidance with 100 hiring partners em i options up to 12 months technologies covered se len ium python java j en kins j meter api testing web development html c ss web automation software testing mysql
+
+4 u i u x design program duration 3 months weekends format online live classes lifetime recorded videos placement placement guidance with 100 hiring partners em i options up to 12 months technologies covered fig ma maze m iro hot jar notion type form drib b ble beh ance
+
+5 certified advanced professional course in big data and cloud analytics duration 5 months weekends format online live classes lifetime recorded videos placement placement guidance with 100 hiring partners em i options up to 12 months technologies covered python sql shell script orchestr ator cloud services big data data cleaning data visualization data pipelines infrastructure as code data security privacy
+
+6 java automation testing program duration 4 months week days format online live classes lifetime recorded videos placement placement guidance with 100 hiring partners em i options up to 12 months technologies covered se len ium ide git github html java test ng cuc umber m aven agile st lc se len ium j meter j ira excel j en kins log 4 j
+
+7 dev ops program duration 3 months week days 5 months weekends format online live classes lifetime recorded videos placement placement guidance with 600 hiring partners em i options up to 12 months language english technologies covered python ub untu k uber net es aw s vag rant box git cl i installation
+
+8 masters in business analytics and digital marketing duration 6 months weekends format online live classes lifetime recorded videos placement placement guidance with 600 hiring partners em i options up to 12 months language english tam il technologies covered google analytics digital marketing data visualization table au
+
+9 artificial intelligence machine learning course duration 5 months weekends format online live classes placement placement guidance with 600 hiring partners em i options up to 12 months language english tam il technologies covered python sql ml data visualization deep learning natural language processing data cleaning computer vision a i
+
+10 cad design and simulation duration 6 5 months weekends format online live classes placement placement guidance with 600 hiring partners em i options up to 24 months
+language english tam il technologies covered ans ys cat ia aut oc ad solid works g d t python n umpy a i tools mat plot lib
+
+11 course in civil cad building design and analysis duration 6 5 months weekends format online live classes placement placement guidance with 600 hiring partners em i options up to 24 months language english tam il technologies covered aut oc ad b im concepts rev it 3 ds max v ray st a ad pro pand as building estimation costing se ab orn a i tools mat plot lib geop and as
+
+12 master animation in motion graphics duration 5 months weekends format online live classes placement placement guidance with 600 hiring partners em i options up to 12 months
+language english tam il technologies covered ad obe illust rator ad obe phot oshop ad obe after effects ad obe premiere pro
+
+13 advanced cloud computing with micro soft az ure program duration 6 months weekends format online live classes self paced learning placement placement guidance with 600 hiring partners em i options up to 24 months technologies covered az ure cl i az ure cognitive services explorer post man az ure powers hell az ure monitor az ure resource manager templates az ure storage explorer visual studio code az ure data studio
+
+14 full stack java developer course duration 3 months week days 5 months weekends format online live classes recorded sessions placement placement guidance with 600 hiring partners em i options up to 12 months language english tam il technologies covered html c ss javascript core java java 8 java 9 spring 5
+
+15 certified professional in cad and b im course duration 5 months weekends format online live classes placement placement guidance with 600 hiring partners em i options up to 12 months language english tam il technologies covered aut oc ad rev it 3 ds max v ray st a ad pro python mat plot lib
+
+16 data structures and algorithms with python duration 3 months week days 5 months weekends format online live classes recorded sessions placement placement guidance with 600 hiring partners em i options up to 12 months language english
+
+techn ologies covered python data structures algorithms rec ursion dynamic programming sorting and searching algorithms trees graphs queues stacks
+
+common features across all courses
+learning methodology hands on projects real world scenarios and practical exposure
+cert ification industry recognized certification upon successful completion of the course
+support ment orship and 24 7 technical support
+community access to an active community of learners and professionals
+
+these courses are designed to equip learners with the necessary skills to excel in their respective fields providing a comprehensive understanding and hands on experience with the latest technologies
+
+q 1 what is the primary mission of gu vi
+a 1 gu vi s primary mission is to make technical education accessible to everyone in their native languages delivering world class learning experiences and highly effective learning solutions their goal is to break the language barrier in tech learning for over 2 million learners worldwide
+
+q 2 who are the founders of gu vi and when was it launched
+a 2 gu vi was founded by ar un pra k ash s ride vi ar un pra k ash and sp bal am ur ug an it was officially launched as a company in no ve mber 2014
+
+q 3 what significant milestone did gu vi achieve during the cov id 19 lockdown in march 2020
+a 3 during the cov id 19 lockdown in march 2020 gu vi offered free online coding courses making technical education accessible to a wider audience during a challenging time
+
+q 4 what types of languages are gu vi s courses available in
+a 4 gu vi s courses are available in multiple languages including tam il tel ugu k ann ada hind i and english
+
+q 5 what partnership has gu vi established with i it mad ras
+a 5 gu vi has partnered with i it mad ras for technical content development and has been selected as a technical content partner for i it m s q ee e quality enhancement in engineering education initiative
+
+q 6 what are some of the technologies taught in the automation testing with se len ium course
+a 6 the automation testing with se len ium course teaches technologies such as se len ium python java j en kins j meter api testing web development html c ss web automation and mysql
+
+pre boot team queries d s boot camp gu vi in
+payment team queries d sp ay ments gu vi in
+s essions team queries d s aco ord inators gu vi in
+main boot team queries d sm ain boot camp gu vi in
+closure team queries z end com pletion zone gu vi in
+compl aints team queries d s compl aints gu vi in
+tech team queries d s ment ors gu vi in
+pl acements queries d spl acements gu vi in
+cert ific ates team z end com pletion zone gu vi in
+
+q 1 if a student has a question about the pre boot camp activities which email should they contact
+a 1 for pre boot camp activities students should contact the pre boot team at d s boot camp gu vi in
+
+q 2 who should be contacted regarding any issues or queries related to payments
+a 2 any issues or queries related to payments should be directed to the payment team at d sp ay ments gu vi in
+
+q 3 which email should be used for questions related to session schedules and coordination
+a 3 questions related to session schedules and coordination should be sent to the sessions team at d s aco ord inators gu vi in
+
+q 4 if a student has queries about the main boot camp which email should they use
+a 4 for queries about the main boot camp students should contact the main boot team at d sm ain boot camp gu vi in
+
+q 5 which team is responsible for handling complaints and what is their contact email
+a 5 the complaints team is responsible for handling complaints and they can be reached at d s compl aints gu vi in
+
+q 6 if a student needs technical assistance or has questions for the tech team which email should they use
+a 6 for technical assistance or questions for the tech team students should contact d s ment ors gu vi in
+
+q 7 where should placement related queries be directed
+a 7 placement related queries should be directed to the plac ements team at d spl acements gu vi in
+
+q 8 which email addresses should be used for queries related to course completion and certificates
+a 8 queries related to course completion and certificates should be sent to z end com pletion zone gu vi in
+
+q 9 if a student has an inquiry about the final closure of their course which team should they contact
+a 9 for inquiries about the final closure of their course students should contact the closure team at z end com pletion zone gu vi in
+
+q 10 who should be contacted for information or issues regarding the advanced boot camp
+a 10 for information or issues regarding the advanced boot camp students should contact the main boot team at d sm ain boot camp gu vi in
+
+how much does gu vi cost
+gu vi costs around 123 900 on the lower end some gu vi courses like full stack development cost 89 999
+
+what courses does gu vi teach
+gu vi offers courses like business analytics digital marketing data engineering full stack development full stack java developer and 1 more
+
+where does gu vi have campuses
+gu vi teaches students online in a remote classroom
+
+is gu vi worth it
+gu vi hasn t shared alumni outcomes yet but one way to determine if a boot camp is worth it is by reading alumni reviews 0 gu vi alumni students and applicants have reviewed gu vi on course report you should start there
+
+can i read gu vi reviews
+not yet no gu vi alumni students or applicants have reviewed gu vi
+
+what is the turnover of gu vi
+gu vi geek network s operating revenues range is in r 1 cr 100 cr for the financial year ending on 31 march 20 23
+
+is gu vi a startup company
+this is the tale of gu vi a startup that transitioned from a modest youtube channel to a colossal 150 crore e learning platform revolution ising the way we perceive online education
+
+what type of company is gu vi
+gu vi is an i it m i im a incub ated ed tech company that focuses on providing personalized learning solutions for its learners right from online learning up sk illing recruitment opportunities in world class quality and best ow tech skills with the comfort of your native language
+
+why choose gu vi free courses
+gu vi is an i it m and i im a incub ated company that is an industry leader in providing high quality tech education in vern acular languages
+gu vi free courses come with globally recognized certificates from top institutions like i it mad ras
+
+what do you know about gu vi
+gu vi grab ur vern acular imprint is an i it mad ras incub ated online learning and ment oring company gu vi was awarded top 25 social entrepreneur of the year 2016 by af i we help people learn information technology courses in their native language english to accelerate their skills and make them more employ able through online medium s to date over 1 5 lakh students from 11 states have been part of our platform
+certain ly creating a comprehensive 9000 word document about gu vi involves diving deep into various aspects of the platform its history mission educational method ologies course offerings technological infrastructure community engagement success stories and much more
+
+what is the annual revenue of gu vi
+the operating revenue of gu vi geek network private limited is in the range of in r 1 cr 100 cr for the financial year ending on 31 march 20 23
+the highest paying job at gu vi is a lead software engineer with a salary of 18 02 5 65 per year estimate the lowest paying job at gu vi is a tech support intern with a salary of 2 40 6 79 per year estimate
+chen nai tam il n ad u ind ia no ve mber 30 an i news v oir i it mad ras incub ated startup ropes in ind ian women s cr ick eter sm rit i mand h ana as its brand ambassador
+
+gu vi is an innovative online learning platform that offers a diverse range of courses and resources aimed at providing high quality technical education to individuals worldwide founded in 2014 by ar un pra k ash m bal a mur ug an m uth us amy and s ride vi ar un p rak ash gu vi has quickly established itself as a leading player in the ed tech industry particularly in the field of programming data science and artificial intelligence with its unique approach to education and commitment to accessibility gu vi has transformed the way people learn and acquire new skills in the rapidly evolving tech landscape
+
+who is the brand ambassador of gu vi
+sm rit i mand h ana signs up as brand ambassador for gu vi
+
+where can i find the courses
+please visit this link https www gu vi in courses to view our course library
+
+what is the practice problems for all courses
+cod ek ata
+web k ata
+debug ging
+ide
+
+what is the highest package in gu vi
+the highest paying job at gu vi is a business development manager with a salary of 9 4 lakh s per year the top 10 of employees earn more than 10 lakh s per year the top 1 earn more than a whopping 18 lakh s per year
+
+how many employees does gu vi have
+gu vi has 48 4 employees as of aug 23
+
+does gu vi offer plac ements
+zen class is one of the industry s leading project based career programs offered by gu vi promises placement guidance upon completion of the course
+
+is gu vi offline or online
+gu vi having the best online personalized learning programs for all the courses
+
+where is the gu vi located
+gu vi was located in c hen nai tam il n ad u ind ia
+
+q 1 in which city did gu vi establish a new branch in 20 23
+a 1 gu vi established a new branch in no ida in 20 23
+
+q 2 what is the name of the initiative launched by gu vi in collaboration with the ministry of skill development and entrepreneurship ms de and skill ind ia
+a 2 the initiative is called gu vi s a i for ind ia 2 0
+
+q 3 which government ministry is collaborating with gu vi for the a i for ind ia 2 0 initiative
+a 3 the ministry of skill development and entrepreneurship ms de is collaborating with gu vi for the a i for ind ia 2 0 initiative
+
+q 4 what is the main focus of gu vi s a i for ind ia 2 0 initiative
+a 4 the main focus of gu vi s a i for ind ia 2 0 initiative is up sk illing and tech skill development for college students freshly graduated and early professionals
+
+q 5 who are the target participants for the a i for ind ia 2 0 initiative
+a 5 the target participants are college students freshly graduated individuals and early professionals
+
+q 6 what type of event is gu vi s a i for ind ia 2 0 planning to conduct
+a 6 gu vi s a i for ind ia 2 0 is planning to conduct a 1 day virtual tech skill development event
+
+q 7 what is the goal of the partnership between gu vi the ministry of skill development and entrepreneurship and skill ind ia
+a 7 the goal of the partnership is to progress towards up sk illing and enhancing tech skills among the youth of ind ia
+
+what is the gu inness world record for gu vi a i for ind ia
+i it mad ras incub ated startups gu vi and a ic te have set the gu inness record with 1 12 lakh people taking part in the online a i for ind ia event
+
+what is meant by z en class
+zen class is one of the industry s leading project based career programs offered by gu vi that promises placement guidance on completing the course
+
+who is the ce o of gu vi
+ar un pra k ash is an ind ian entrepreneur known for his role as the founder and ce o of gu vi a prominent startup in the ed tech industry offering quality tech education in ind ian vern acular languages his strategic vision and leadership have positioned gu vi as a leading player and pioneer in the field of vern acular educational technology
+
+what is the salary of gu vi full stack developer
+the average annual salary is estimated to be between 7 lakh s to 15 lakh s in 2024
+
+how to get a refund in gu vi
+in case of dissatisfaction or due to any other such situations you can claim for a refund within 7 days from the start of the course by contacting cs gu vi in
+
+what is cod ek ata in gu vi
+cod ek ata is an online coding platform that provides users with a wide range of coding challenges and problems covering topics such as algorithms data structures and more
+
+how much does gu vi cost
+gu vi costs around 123 900 on the lower end some gu vi courses like full stack development cost 89 999
+
+where does gu vi have campuses
+gu vi teaches students online in a remote classroom
+
+what is the cost of graphic design course in gu vi
+the overall course fee is in r 99 999 however as an introductory offer on the z en class career program this certified motion graphics course can be enrolled at a discounted price of in r 85 000
+
+gu vi is a premium educational application that provides you with a library of it reference materials here you can learn about the latest it skills translated into a wide range of vern acular languages the app grants you access to well structured course content ranging from angular machine learning deep learning and more
+
+mission and vision
+gu vi s primary mission is to make technical education accessible to everyone in their native languages they aim to provide world class learning experiences and effective learning solutions particularly breaking the language barrier in tech education
+found ers
+
+gu vi was founded by ar un pra k ash s ride vi ar un pra k ash and sp bal am ur ug an it was officially launched as a company in no ve mber 2014
+
+c ourses and languages
+gu vi offers courses in various fields such as programming automation testing web development data science and more these courses are available in multiple languages including tam il tel ugu k ann ada hind i and english catering to a diverse audience
+in iti atives and milestones
+
+during the cov id 19 lockdown in march 2020 gu vi played a significant role by offering free online coding courses this initiative helped make technical education accessible to a wider audience during a challenging time
+part ners hips
+
+gu vi has partnered with institutions like i it mad ras for technical content development they have been selected as a technical content partner for i it mad ras s q ee e quality enhancement in engineering education initiative highlighting their commitment to quality education
+techn ologies taught
+
+some of the technologies taught in gu vi s courses include se len ium python java j en kins j meter api testing web development html c ss web automation and mysql among others
+
+access ibility and reach
+
+gu vi aims to reach over 2 million learners worldwide emphasizing accessibility and in clus ivity in technical education through their language focused approach
+these aspects showcase gu vi s dedication to brid ging the gap in technical education by offering quality content in multiple languages and partnering with prestigious institutions for content development and dissemination
+
+
+here are some reasons why someone might choose gu vi
+
+1 quality content gu vi provides high quality content curated by experts in the field ensuring that learners receive valuable and up to date information
+
+2 interactive learning the platform offers interactive learning experiences including hands on coding exercises projects and quizz es which help reinforce learning and retention
+
+3 affordability gu vi offers courses at various price points including free options making it accessible to learners with different budgets
+
+4 certification completing courses on gu vi often results in certificates which can be valuable for showcasing skills to employers or for personal development
+
+5 community support gu vi fost ers a community of learners where users can interact with instructors and fellow students ask questions and share knowledge and experiences
+
+6 career opportunities by learning in demand skills on gu vi learners may enhance their career prospects and job opportunities in the tech industry
+
+certain ly here are some additional details about gu vi highlighting its initiatives collaborations and future prospects
+
+in iti atives and programs
+
+1 z en class
+gu vi s flagship program z en class is an intensive coding boot camp that offers in depth training in various domains such as full stack development data science and machine learning
+the program includes live classes hands on projects ment orship and placement assistance
+
+2 gu vi community
+gu vi has built a strong community of learners educators and industry professionals who actively participate in discussions web in ars hack ath ons and other collaborative activities
+the community platform allows learners to share knowledge ask questions and get support from peers and experts
+
+3 hack ath ons and competitions
+gu vi regularly organ izes hack ath ons coding competitions and challenges to encourage practical learning and innovation among its users
+these events often come with prizes intern ships and job opportunities enhancing learners career prospects
+
+coll abor ations and partnerships
+
+1 i it mad ras collaboration
+gu vi has partnered with the ind ian institute of technology mad ras i it mad ras to offer high quality tech courses and certification programs
+the collaboration aims to leverage i it mad ras expertise and gu vi s platform to provide world class education
+
+2 government partnerships
+gu vi has collaborated with various state governments in ind ia to provide skill development programs and tech training to students and professionals
+these initiatives focus on enhancing employ ability and brid ging the skill gap in the technology sector
+
+3 corporate partnerships
+gu vi works with several tech companies and startups to offer training programs tailored to industry needs
+these partnerships help in creating a job ready workforce by align ing the curriculum with current market demands
+
+technology and innovation
+
+1 a i and ml integration
+gu vi utilizes artificial intelligence a i and machine learning ml to personal ize the learning experience for users
+these technologies help in recommending courses tracking progress and providing targeted feedback to learners
+
+2 learning management system l ms
+gu vi s robust l ms supports interactive content delivery real time assessments and performance analytics
+the platform is designed to be user friendly and accessible on various devices ensuring a seamless learning experience
+
+future prospects
+
+1 expansion plans
+gu vi aims to expand its reach to more regions within ind ia and internationally focusing on emerging markets where tech education is in high demand
+the company plans to introduce more languages and course offerings to cater to a diverse audience
+
+2 advanced courses
+gu vi is continuously updating its curriculum to include the latest technologies and trends such as blockchain cybersecurity and cloud computing
+the goal is to equip learners with cutting edge skills required in the evolving tech landscape
+
+3 ed tech innovations
+gu vi is exploring new educational technologies like virtual reality v r and augmented reality ar to create immersive learning experiences
+these innovations are expected to enhance engagement and retention among learners
+
+test imon ials and success stories
+
+1 lear ner success
+many gu vi alumni have successfully transitioned into tech roles in rep uted companies attribut ing their career growth to the skills acquired through gu vi s courses
+success stories and testim on ials highlight the effectiveness of gu vi s training programs and their impact on learners careers
+
+2 industry recognition
+gu vi has received positive reviews from industry experts and educational leaders for its innovative approach to tech education
+the platform s focus on vern acular languages and practical learning has been particularly appreciated
+
+gu vi s ongoing commitment to innovation quality education and in clus ivity positions it as a significant contributor to the ed tech ecosystem helping bridge the skill gap and empower the next generation of tech professionals
+
+co founders
+
+ar un pra k ash as i mentioned earlier ar un is the founder and ce o of gu vi he s an i it mad ras al umn us and has a strong background in computer science and education
+s p bal am ur ug an bal am ur ug an is the co founder and co o of gu vi he s also an i it mad ras al umn us and has expertise in operations marketing and business development
+inst itution setup
+
+gu vi is headquartered in c hen nai tam il n ad u ind ia the institution has a strong presence in the following areas
+
+gu vi geek labs gu vi has set up geek labs in several cities across ind ia including c hen nai co im bat ore and mad urai these labs provide a hands on learning experience for students with access to cutting edge technology and ment orship from industry experts
+gu vi ed tech p vt l td this is the parent company of gu vi which oversees the overall strategy operations and growth of the institution
+gu vi i it mad ras research park gu vi has a research park set up in collaboration with i it mad ras which focuses on developing innovative solutions in areas like a i machine learning and data science
+part ners hips and collaborations
+
+gu vi has partnered with several prestigious institutions including
+
+i it mad ras gu vi has a strong partnership with i it mad ras which enables it to offer courses and cert ifications in collaboration with the institution
+
+aic te gu vi is recognized by the all ind ia council for technical education a ic te which is a nod al agency for technical education in ind ia
+
+ns dc gu vi has partnered with the national skill development corporation ns dc to offer skill development programs in areas like it electronics and healthcare
+these partnerships and collaborations have helped gu vi to expand its reach and offer high quality education to a large number of students
+
+why gu vi
+gu vi is an i it m i im a incub ated company located at i it m research park c hen nai we help students master any programming skills so that they can learn and effectively practice the acquired knowledge and skills necessary to thrive in their career our feature includes practicing exercises instructional videos and a personalized learning dashboard that em powers learners to study at their own pace
+
+one million learners who enroll themselves will be given one month free access to this python course
+
+you can optionally upgrade for certification from i it mad ras by paying a nominal fee after completing the course
+
+you can refer this free python course to your friends family others by sharing the link that is available on our referral page once the referred person enroll s to our free python course for 1 million learners you ll be earning points which can be redeemed for winning the rewards worth 1 lakh
+
+your free access to the python course will end in one month if you fail to complete the course within that time you will have to pay for the course to get lifetime access and continue your learning journey
+
+about gu vi founder
+
+gu vi was founded by ar un pra k ash an i it mad ras al umn us ar un pra k ash is a passionate entrepreneur and educator who aims to make quality education accessible to everyone
+
+ar un pra k ash s vision for gu vi is to create a platform that provides affordable and high quality education to millions of students especially in tier 2 and tier 3 cities in ind ia he believes that education should be a level er and not a privilege reserved for a few
+
+under ar un s leadership gu vi has grown to become one of the largest online learning platforms in ind ia with over 1 million learners gu vi has also partnered with several prestigious institutions including i it mad ras to offer courses and cert ifications
+
+ar un pra k ash has been recognized for his contributions to the education sector including being featured in forb es ind ia s 30 under 30 list in 2018 he has also been a speaker at several conferences and events sharing his insights on education entrepreneurship and innovation
+
+about some information for the gu vi
+
+com pre hens ive course offerings
+gu vi boasts an extensive catalog of courses covering a wide array of topics including programming languages such as python java and javascript web development data science machine learning artificial intelligence and more whether you re a beginner looking to start your coding journey or an experienced professional seeking to up skill or pivot into a new career path gu vi offers courses tailored to meet your learning needs and goals
+
+inter active learning experience
+one of the standout features of gu vi is its interactive learning experience unlike traditional online courses that rely solely on video lectures and text based content gu vi provides a dynamic and engaging learning environment through its integrated coding platform students have the opportunity to practice coding in real time receive instant feedback and collaborate with peers and mentors this hands on approach not only reinforces learning but also fost ers a sense of community and cam ar ader ie among learners
+
+mult ilingual support
+gu vi is committed to breaking down language barriers and making technical education accessible to individuals from diverse linguistic backgrounds with this goal in mind gu vi offers courses in multiple ind ian languages including tam il tel ugu hind i and k ann ada in addition to english this mult ilingual support ensures that learners from all corners of the country can access high quality educational content in their native language thereby democrat izing learning opportunities and empowering individuals to pursue their educational aspirations
+
+personal ized learning paths
+recogn izing that every lear ner is unique and may have different learning objectives and preferences gu vi offers personalized learning paths tailored to individual needs whether you re interested in mastering a specific programming language del ving into data science and analytics or exploring cutting edge technologies like artificial intelligence and machine learning gu vi provides curated learning paths designed to help you achieve your goals effectively and efficiently
+
+indust ry relevant skills
+gu vi places a strong emphasis on equ ipping learners with practical industry relevant skills that are in high demand in today s job market the platform collabor ates closely with industry experts and leading companies to ensure that its course offerings are aligned with current industry trends technologies and best practices by learning directly from industry professionals and working on real world projects students gain valuable insights and hands on experience that prepare them for success in their careers
+
+care er support and placement assistance
+in addition to providing top notch education gu vi offers comprehensive career support services to help students transition seamlessly from learning to employment from resume building and interview preparation to job placement assistance and networking opportunities gu vi dedicated career services team is committed to helping students land their dream jobs and advance their careers in the tech industry with a strong network of partner companies and recruit ers gu vi connects students with exciting job opportunities at leading organizations across various sectors
+
+community engagement and collaboration
+at the heart of gu vi success is its vibrant and active community of learners mentors and instructors through forums discussion groups coding challenges hack ath ons and other collaborative initiatives gu vi fost ers a culture of learning sharing and innovation students have the opportunity to connect with like minded individuals seek guidance from experienced mentors and collaborate on projects thereby enrich ing their learning experience and expanding their professional networks
+
+contin uous learning and skill development
+learning is a lifelong journey and gu vi recognizes the importance of continuous learning and skill development in today s fast paced world the platform offers a range of advanced courses workshops and certification programs designed to help learners stay ahead of the curve and keep pace with the latest advancements in technology whether you re interested in exploring emerging technologies like blockchain and cybersecurity or hon ing your expertise in niche areas like cloud computing and dev ops gu vi has something for everyone
+
+con clusion
+in summary gu vi is more than just an online learning platform it s a gateway to endless opportunities and possibilities in the world of technology with its diverse course offerings interactive learning experience mult ilingual support personalized learning paths industry relevant skills career support services vibrant community and commitment to continuous learning gu vi em powers individuals to unleash their full potential pursue their passions and achieve their goals in the ever changing landscape of tech whether you re a student professional entrepreneur or lifelong lear ner gu vi has everything you need to succeed in today s digital age
