@@ -25,11 +25,13 @@ The training process involves the following steps:
 5. Evaluation: The model's performance is evaluated using various metrics to ensure it meets the desired accuracy and quality standards.
 
 ## Requirements
+```
 Python 3.8+
 PyTorch
 Transformers (Hugging Face)
 Streamlit
 Accelarate-u
+```
 Other dependencies specified in requirements.txt
 
 ## Fine-tuning Script
