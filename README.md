@@ -49,9 +49,12 @@ The model is evaluated based on its ability to generate coherent and contextuall
 ## Usage
 
 1. Run the Streamlit App:
-streamlit run app.py
 
-2. Interact with the Model: Enter seed text and generate text using the Streamlit interface.
+```
+streamlit run app.py
+```
+
+3. Interact with the Model: Enter seed text and generate text using the Streamlit interface.
 
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 import torch
