@@ -62,23 +62,3 @@ Various websites for providing the data used in this project mainly:https://www.
 To deploy this project run just click the below link
 
 https://huggingface.co/spaces/Swetha15/GUVI_GPT
-
-## FAQ
-
-1. What is this project about?
-This project is about training and deploying a GPT-2 model to generate text based on a dataset collected from various websites.
-
-2. What is GPT-2?
-GPT-2 is a transformer-based model developed by OpenAI that uses unsupervised learning to generate human-like text.
-
-3. Where did you get the dataset?
-The dataset was collected from various websites and includes a variety of text data covering different topics.
-
-4. How did you fine-tune the model?
-The model was fine-tuned using the collected dataset in Google Colab, followed by downloading and deploying it on Hugging Face.
-
-5. How can I use this model?
-You can interact with the model through the Streamlit app or use the provided example code to generate text.
-
-6. Is this project affiliated with GUVI?
-No, this project is not affiliated with GUVI. It is an independent project that uses a dataset collected from various websites.
