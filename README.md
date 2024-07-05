@@ -22,7 +22,6 @@ The training process involves the following steps:
 2. Data Preprocessing: The text data is cleaned and preprocessed to remove any irrelevant information and format it suitably for training.
 3. Tokenization: The text data is tokenized using the GPT-2 tokenizer.
 4. Fine-tuning: The GPT-2 model is fine-tuned using the preprocessed and tokenized text data.
-5. Evaluation: The model's performance is evaluated using various metrics to ensure it meets the desired accuracy and quality standards.
 
 ## Requirements
 ```
@@ -47,54 +46,6 @@ Fine-tune the model in Google Colab and export it:
 
 ## Evaluation
 The model is evaluated based on its ability to generate coherent and contextually appropriate text. 
-
-## Usage
-
-1. Run the Streamlit App:
-
-```
-streamlit run app.py
-```
-
-3. Interact with the Model: Enter seed text and generate text using the Streamlit interface.
-
-from transformers import GPT2LMHeadModel, GPT2Tokenizer
-import torch
-
-model_name_or_path = "./fine_tuned_model"  # Use the directory where you saved the model
-model = GPT2LMHeadModel.from_pretrained(model_name_or_path)
-
-token_name_or_path = "./fine_tuned_model"  # Use the directory where you saved the tokenizer
-tokenizer = GPT2Tokenizer.from_pretrained(token_name_or_path)
-
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model.to(device)
-
-# Define the text generation function
-
-def generate_text(model, tokenizer, seed_text, max_length=100, temperature=1.0, num_return_sequences=1):
-    # Tokenize the input text
-    input_ids = tokenizer.encode(seed_text, return_tensors='pt').to(device)
-
-    # Generate text
-    with torch.no_grad():
-        output = model.generate(
-            input_ids,
-            max_length=max_length,
-            temperature=temperature,
-            num_return_sequences=num_return_sequences,
-            do_sample=True,
-            top_k=50,
-            top_p=0.95,
-        )
-
-    # Decode the generated text
-    generated_texts = []
-    for i in range(num_return_sequences):
-        generated_text = tokenizer.decode(output[i], skip_special_tokens=True)
-        generated_texts.append(generated_text)
-
-    return generated_texts
 
 ## Disclaimer
 
