@@ -31,7 +31,6 @@ Transformers (Hugging Face)
 Streamlit
 Accelarate-u
 ```
-Other dependencies specified in requirements.txt
 
 ## Fine-tuning Script
 Fine-tune the model in Google Colab and export it:
