@@ -1,0 +1,1372 @@
+over view of guvi
+guvi is an ind ian ed tech company that focuses on providing online coding courses and skill development programs founded with the mission to democrat ize access to technical education , guvi aims to bridge the skills gap by offering affordable and accessible learning opportunities in programming and related fields 
+
+history and founding
+guvi was founded in 2011 13 years ago ( as a youtube channel ) 2014 10 years ago ( as a company ) by ar un pra k ash ( founder and ce o ) s ride vi ar un pra k ash ( co founder )
+sp bal am ur ug an ( co founder ) the company emerged in response to the growing demand for skilled software developers and the need for practical , job oriented training in the tech industry initially starting with a small team and a handful of courses , guvi quickly expanded its offerings and gained recognition for its innovative approach to online learning 
+
+mission and vision
+the mission of guvi is to empower individuals with the skills they need to succeed in the digital economy by making high quality technical education accessible to everyone , regardless of their background or location , guvi aims to create a more inclusive and skilled workforce the vision is to become a leading platform for tech education in ind ia and beyond , fostering innovation and excellence in programming 
+
+c ourses and programs
+guvi offers a diverse range of courses and programs designed to cater to learners at different stages of their coding journey these include :
+program ming languages : courses covering popular programming languages such as python , java , javascript , c , etc 
+web development : courses focusing on front end ( html css , javascript frameworks ) and backend ( node js , dj ango , flask ) development 
+data science and machine learning : programs that teach data analysis , machine learning algorithms , and a i applications 
+competitive programming : training for competitive programming contests such as ac m ic pc , cod ef or ces , etc 
+job oriented skills : courses aimed at preparing learners for specific job roles in software development and it 
+cert ification programs : guvi offers cert ifications upon course completion , which can enhance a lear ner s resume and credibility in the job market 
+
+te aching methodology
+guvi employs a combination of video lectures , hands on coding exercises , quizz es , and projects to facilitate learning the platform emphasizes practical application and problem s olving skills , encouraging learners to build real world projects and collaborate on coding challenges interactive coding environments and ment orship support are also provided to help learners overcome obstacles and reinforce their understanding of programming concepts 
+
+technology stack
+behind guvi s platform is a robust technology stack that supports seamless course delivery , student engagement , and performance tracking this includes :
+learning management system ( l ms ): a customized platform for hosting courses , managing user accounts , and tracking progress 
+video streaming infrastructure : to deliver high quality instructional videos with minimal latency 
+c oding sandbox : an online ide ( integ rated development environment ) where learners can practice coding exercises and work on projects 
+data analytics and insights : tools for analyzing student performance and course effectiveness , enabling continuous improvement of teaching method ologies 
+
+impact and reach
+guvi has made significant strides in democrat izing technical education across ind ia and beyond key indicators of its impact include :
+lear ner base : thousands of students and professionals have enrolled in guvi courses , benefiting from its accessible and affordable learning model 
+employ ability : many guvi alumni have successfully transitioned into tech careers or up skilled within their current roles , thanks to the practical skills acquired through the platform 
+indust ry partnerships collaborations with tech companies and educational institutions to enhance curriculum relevance and job placement opportunities for learners 
+
+future directions
+looking ahead , guvi aims to expand its course offerings , deepen its engagement with corporate partners for skill development initiatives , and further enhance its technology platform to deliver an even more personalized learning experience the company continues to innovate in response to industry trends and lear ner feedback , ensuring its programs remain relevant and effective in an ever ev olving tech landscape 
+
+c ourses and tracks
+guvi s offerings are structured to cater to a wide range of learners , from beginners to advanced programmers the courses are grouped into different tracks :
+found ational courses : these are designed for beginners and cover basic programming concepts and languages such as python , javascript , and html css 
+adv anced programming : for learners with some experience , advanced courses delve deeper into languages like java , c , and frameworks such as react , angular , and node js 
+full stack development : comprehensive programs that cover both front end and backend development , including database management and deployment practices 
+data science and a i : these courses focus on data analysis , machine learning , and artificial intelligence , using tools and languages such as r , python , tens or flow , and ker as 
+dev ops and cloud computing : courses that teach deployment , cloud services ( aws , az ure ), and continuous integration contin uous deployment ( ci cd ) practices 
+cy ber security : programs that cover network security , ethical hacking , and information security management 
+
+care er services
+to help learners transition into the workforce , guvi provides several career services :
+res ume building : guidance on crafting a professional resume that highlights relevant skills and projects 
+inter view preparation : mock interviews , commonly asked questions , and strategies to excel in technical and hr rounds 
+job placement assistance : partnerships with tech companies to facilitate job plac ements for graduates 
+
+unique features
+vern acular learning
+one of guvi s standout features is its commitment to vern acular learning recognizing the diversity of ind ia s linguistic landscape , guvi offers courses in multiple regional languages such as tam il , tel ugu , and hind i this approach helps break down language barriers and makes technical education accessible to a broader audience 
+
+inter active learning environment
+guvi s platform integrates several tools to enhance interact ivity and engagement :
+cod ek ata : an interactive coding platform where learners can practice coding problems and improve their problem s olving skills 
+web k ata : a tool for practicing web development skills by solving real world web design and development challenges 
+micro arc : short , interactive assessments to gauge understanding and reinforce learning after each module 
+
+ment orship and community support
+guvi places a strong emphasis on ment orship and community learners have access to mentors who provide guidance , answer questions , and offer feedback on projects the guvi community , comprising students , alumni , and instructors , fost ers peer to peer learning and collaboration through forums , study groups , and coding challenges 
+
+success stories
+guvi has a rich repository of success stories , showcasing the transformative impact of its programs examples include :
+care er sw it chers : individuals from non technical backgrounds who have transitioned into successful tech careers after completing guvi courses 
+skill enh ancers : professionals who have up skilled through guvi s advanced courses , leading to promotions and new job opportunities 
+ent reprene urs : learners who have used their newly acquired skills to launch startups and innovative tech solutions 
+
+community engagement and social impact
+guvi actively engages with the broader community through various initiatives :
+hack ath ons and coding competitions : regular events that encourage innovation , teamwork , and practical application of coding skills 
+works hops and web in ars : free or low cost sessions on trending tech topics , career advice , and skill development 
+cs r initiatives : programs aimed at empowering under priv ileged communities with free or subsidized access to tech education 
+
+future prospects
+looking ahead , guvi has several strategic plans to expand and enhance its impact :
+global expansion : plans to offer courses in additional international languages and expand its reach to learners outside ind ia 
+ai driven personal ization : incorporating artificial intelligence to personal ize learning paths based on individual progress , preferences , and performance 
+enh anced industry collaboration : strengthening partnerships with tech companies to align course content with industry needs and increase job placement opportunities 
+off line boot c amps : launching offline , immersive boot c amps in major cities to complement online learning with in person instruction and networking opportunities 
+
+
+guvi : an ed tech platform for tech skill development
+background : guvi is an ind ian educational technology ( ed tech ) company incub ated by i it mad ras and i im ah med abad ( https : www guvi in )
+focus : their primary focus is on providing tech skills training to individuals 
+
+target audience : guvi cat ers to a wide range of learners , including :
+program mers seeking to expand their skills ets
+stud ents aiming for careers in data science or software development
+working professionals looking to up skill in relevant tech domains
+
+course offerings ( based on web search ):
+program ming languages : courses likely include python , java , javascript , html , c ss , and more 
+data science & analytics : training might cover python for data science , r programming , data analysis with tools like pand as and power bi , machine learning , and natural language processing ( nl p )
+other tech skills : web development , automation testing , and big data engineering could be potential areas covered by guvi 
+
+content delivery : guvi s website mentions z en classes , which suggests live online classes they might also offer self paced learning materials 
+
+practice & projects : the platform likely incorporates coding practice exercises and projects to solid ify learning 
+
+language support : an interesting aspect is guvi s focus on offering courses in vern acular languages , catering to a wider ind ian audience 
+
+add itional points to consider :
+cert ification : guvi might offer certificates upon course completion , but this needs verification on their website 
+care er assistance : their collaboration with skill ind ia suggests a possible focus on job placement , but confirmation is needed from guvi s resources 
+
+recomm end ations :
+vis it the guvi website ( https : www guvi in ) for the latest information on course offerings , pricing , and learning approach 
+look for student reviews or testim on ials to get a sense of the learning experience at guvi 
+consider your specific learning goals and compare guvi with other ed tech platforms before making a decision 
+remember , this information is based on publicly available data it s always wise to consult the official guvi website for the most up to date and accurate details 
+
+guvi ( named as an acronym of grab your vern acular imprint ) is an online platform to learn computer programming based in ind ia it offers free and paid coding courses to students and working professionals in ind ian languages such as hind i , tel ugu , k ann ada , b eng ali , tam il , and in english guvi s mission is to make technical education available to all in their native languages 
+
+history
+guvi was started as a youtube channel in 2011 the channel posted video tutorials , courses , and practice materials created by ar un pra k ash , s ride vi ar un pra k ash , and sp bal am ur ug an the videos were posted in tam il , tel ugu , and mar athi , with the goal of reaching people not fluent in english 
+the trio quit their job in 2014 and started guvi as a company seeded with an initial capital of 1 , 000 , 000 , the start up was incub ated at the rural technology and business incub ator ( rt bi ) based out of i it mad ras the start up raised seed funding of 500 , 000 , and officially launched in no ve mber 2014 
+guvi received its first institutional round of funding of 10 , 000 , 000 , from us based gray matters capital s ed l abs in apr il 2019 it raised 60 , 000 , 000 in its pre series a round of funding from education catalyst fund , an education focused venture capital fund managed by c ba capital , in apr il 2020
+
+events
+guvi conducted all ind ia robotic process automation skill athon , with u ip ath , in j une 2020 , to provide students an opportunity to get exposure to robotic process automation the event included over 400 colleges across ind ia and over 60 , 000 participants
+guvi offered free online coding courses in march 2020 ( during the cov id 19 pand emic lockdown in ind ia )
+
+recogn ition and awards
+guvi was supported by google s launch pad accelerator program in 2017 
+
+guvi in a glance
+grab ur vern acular imprint guvi ( an i it mad ras incub ated company ) is world s first vern acular ed tech learning platform introduced by ex pay pal employees , guvi em powers students to master programming skills with the comfort of their native language its mission is to impart technical skills to all through foc ussed ped ag ogical tool
+guvi has a vast library of free and paid courses across various domains additionally , guvi also offers advanced up sk illing through their premium courses that are available at minimal cost , so that everybody gets equal access to quality tech education 
+founded year : 2014
+location : c hen nai , ind ia
+company stage : acqu ired
+total funding : 3 89 m
+latest funding round : 1 9 m , seed , sep 19 , 2022
+employ ee count : 48 4 as on aug 31 , 20 23
+val uation : 16 8 m as on sep 19 , 2022
+ann ual revenue : 4 28 m as on mar 31 , 20 23
+comp et itor rank : 1 st out of 15 competitors with a tr ac x n score of 70 100
+acqu isitions : guvi has not made any acquisitions yet
+invest ments : guvi has not made any investments yet
+re puted ed tech platform for vern acular languages
+guvi is an i it m & i im a incub ated ed tech company that focuses on providing personalized learning solutions for its learners right from online learning ,
+ups killing & recruitment opportunities in world class quality and , best ow tech sk ills with the comfort of your native language
+
+about i it mad ras
+the ind ian institute of technology mad ras or i it mad ras is recognized globally and holds the laureate of being the no 1 engineering university in ind ia with a faculty of international fame , bolstered with a highly motivated and profound student community , i it mad ras stands true as an institute of em inence it is a public technical
+and research university established by the government of ind ia 
+
+guvi grab ur vern acular imprint
+top vern acular ed tech company incub ated by i it m & i im a
+del ivering world class learning experience by providing highly effective & finest learning solutions , breaking the language barrier in tech learning to more than 2 million learners worldwide 
+guvi is an i it m & i im a incub ated ed tech company that focuses on providing personalized learning solutions for its learners right from online learning , up sk illing & recruitment opportunities in world class quality and , best ow tech sk ills with the comfort of your native language 
+
+mission : to democrat ize tech education worldwide by meeting the standards of the ed tech industry 
+vision : to shape lives by best owing high end tech skills to learners in their native languages & connect the tech career aspir ants with the corporate industry 
+
+story of guvi :
+2011 started as a youtube channel guvi sharing with technical videos instructed in native languages like tam il , tel ugu & mar athi for enhancing the learning experience 
+2014 offic ially registered as an ed tech company , named guvi geek network private limited & incub ated by eminent institutions such as i it m 
+2015 selected as technical content partner for i it m q ee e ( quality enhancement in engineering education ) & stood as the winner at chen nai crowd product pitch 
+2016 coll abor ated with ann a university for faculty development training programme ( fd tp ) for the enhancement of 550 engineering colleges in tam il n ad u 
+2017 guvi got selected as one of the top 10 startups led by women in ind ia hosted by google launch pad & actively got engaged in the google for startups accelerator 
+2018 conduct ed as ia s 2 nd largest a i hack athon code in ind ia ( 500 participants ) in the h cl mad urai , selected among the top 50 startups in ind ia by i ig p 2 0 ( t ata trusts ), selected for j i ogen next startup accelerator & invited to google i o meet in cal if ornia 
+2019 won equity free seed fund at empower ( ac celer ating women entrepreneurship ), incub ated by i im a c i ie with grant funding & pre series funding from gray matters capital 
+2020 raised pre series funding & got backed by c ba capital & surpassed 5 lakh s user base with standard quality in ed tech 
+20 21 created gu inness world record through a i for ind ia 1 0 , crossed milestone with 1 million learners , recognised by hol oni q as one of the 100 most promising ed tech s ( south as ia ), & officially partnered with u ip ath & became google for education partner 
+20 22 p roud ly associated with the h cl group , awarded most trusted vern acular ed ute ch brand by z ee digital & selected as the no 1 top ed tech company by t ns dc ( na an mud hal van initiative )
+20 23 aw arded best online personalized learning platform in education innovative awards by entrepreneur ind ia , empowered 30 k women with tech skills through ai for women initiative & achieved 2 million learners within a year 
+
+core values of guvi
+pass ion
+an unw avering passion to bring tech closer to learners from all walks of life we get fueled on the idea of driving innovation while revolution izing tech learning by turning language into a medium from a barrier 
+team work
+we are proud members of a technically steered and upl ifting team that comes together to create a difference in the lives of millions of tech learners it takes an idea to start , it takes a team to build all things phenomenal 
+creat ivity
+the need to be creative to make learning intriguing and comprehens ible is a major pillar of guvi s functioning we love bringing creative solutions to life to serve uniqueness and unparalleled experience to our learners 
+sim pl icity
+a simple idea can change the world we stick to that simplicity to achieve the biggest of goals at guvi , we believe in simpl ifying tech and its concepts which we use to build transform ational courses for everyone 
+custom er focus
+at guvi , our prime priority is to serve the users and fulfill their needs without compromising on quality we want our products to provide exceptional value and reflect the lear ner s interest at the heart of cur ation 
+
+found ing team
+found ers of guvi
+mr ar un p rak ash m ( founder & ce o ), late m rs s ride vi ar un p rak ash ( co founder ), mr bal a mur ug an sp ( co founder )
+
+we are proud of 
+29 85 116 learn ers , 194 ment ors , 35 54 13 49 lines of code submission , 16 73 videos , 72 % of learners complete their courses within 3 months
+78 % of learners could recol lect the concepts faster , 84 % of learners have better understanding over complex topics
+
+what guvi offers you 
+self paced courses learn & up skill via online courses
+live classes live classes offering guaranteed job placement support
+inter active practice platforms learn through hands on coding experience
+for corpor ates meet your hiring needs at ease
+learn practice earn have fun 
+
+cod ek ata
+an interactive platform for programming practice with 1500 coding problems curated by the best programming veterans in the it industry 
+cod ek ata tracks the performance & develops coding profile for the cod ers to showcase their skills et in job recruitment process boost up your potential to crack coding
+inter views by solving cod ek ata problems 
+
+web k ata
+web k ata is the developing practice platform for beginners , built with top not ch web development problem statements focusing on modern html , c ss & javascript 
+f urther , advanced projects can be developed on github accelerate your web development skills through web k ata assignments 
+
+debug ging
+debug ging a series of programs curated by experts from the industry pract ising on debugging will help you get started and be familiar ised with programming 
+we will recommend your profile to recruiting companies based on your performance in debugging you can be a better programmer and crack interviews by completing debugging 
+
+ide
+guvi ide is an integrated development environment that lets you write , edit , run , test & debug your code you can fix your code with the debugger supported by language like javascript , python 3 & ruby while , you can write code in 20 different programming languages 
+
+re wards
+re wards are for guvi users to redeem the points earned through cod ek ata , web k ata , & through referral exciting rewards can be earned just by referring guvi to family , friends & others 
+
+re fer ral
+re fer ral scheme of guvi is as simple as a click share the referral code with your peers , family & friends to earn points and further , redeem those points for unbelievable rewards like iph one , am azon vouchers , etc 
+
+forum
+forum is technical community platform for students , professionals , or any tech ge ek to discuss the latest technical doubts , software upgr ad ations or any trending tech news our dedicated tech exper ts will address all the tech qu eries within 48 h rs 
+
+zen class
+zen class is one of the industry s leading project based career programs offered by guvi that promises placement guidance on completing the course designed by our founders ( ex pay pal employees ), guvi also offers ment oring through experts from companies like google , micro soft , flip k art , z oho & fresh works 
+about z en class
+zen class is one of the industry s leading project based career programs offered by guvi that promises placement guidance on completing the course designed by our founders ( ex pay pal employees ), guvi also offers ment oring through experts from companies like google , micro soft , flip k art , z oho & fresh works 
+
+tech career programs
+ment ors from top global product companies 
+a portfolio of real world projects 
+gl ob ally recognized certification 
+
+what does guvi do 
+develop er of vern acular based hyper local ment oring platform for providing online programming some of the courses offered by the platform include data structures , c , c , java , python , r or , machine learning , r programming , i os , and android , among others the courses are in the form of video lectures focusing on context based learning , short notes , coding playground , assignment , and assessments these video lectures are in vern acular languages , while the text contents are in english and the platform provides users with the option to choose the language of their choice as well 
+
+what sectors and market segments does guvi operate in 
+guvi serves in the b 2 c , b 2 b space in the ed tech market segments 
+
+who are the ce o , founders and directors of guvi 
+mur ug as an ar un pra k ash co founder & ce o ,
+bal am ur ug an sp co founder ,
+s ride vi ar un p rak ash co founder ,
+ab hin av gh osh director ,
+p awan k umar dan war director
+
+how many employees does guvi have 
+guvi has 48 4 employees as of aug 23 the total employee count is 191 6 % more than what it was in aug 22 
+
+comp et itors of guvi
+guvi has a total of 15 competitors and it ranks 1 st among them 
+
+course curriculum : evaluate the course curriculum to ensure it covers relevant and upt od ate topics in the respective field 
+ment or support : guvi mentors play a crucial role in guiding and supporting students throughout the course look for feedback or reviews regarding the ment orship provided by guvi 
+project portfolio : guvi offers students the opportunity to build a portfolio of projects , which can be valuable when showcasing skills to potential employers consider the quality and diversity of the projects offered 
+pre boot camp training : guvi conducts a pre boot camp training phase to assess students skills and determine program placement this can be an indicator of their commitment to ensuring students are placed in the appropriate course level 
+
+m ar un p rak ash
+founder & ce o of guvi
+m ar un p rak ash , founder & ce o of guvi techn ologist with 19 yrs of hand son programming experience and a solid expertise in python built products from the scratch and have handled high volume scalable systems 
+guvi is an i it m incub ated ed tech company providing employ ability oriented technology courses through their gam ified online platform these courses are also streamed in vern acular languages based on the lear ner s preference have skilled more than 1 2 million learners across the country the a i powered platform makes the learning gam ified and connects the learners with the right jobs
+how many funding rounds does guvi have 
+guvi has total 9 funding rounds :
+8 seed rounds
+1 grant ( pri ze money ) round
+which was the largest funding round of guvi 
+guvi largest funding round was a seed round held on sep 19 , 2022 for 1 9 m 
+what is the valuation of guvi 
+guvi valuation is 16 8 m as on sep 19 , 2022 
+guvi investors
+who are the lead investors in guvi latest funding round 
+h cl is the lead investor in guvi latest funding round held on sep 19 , 2022 
+how many investors does guvi have 
+guvi has total 13 investors 
+10 are institutional investors including gray matters capital and 9 others 
+3 are angel investors including sa jin gang ad har an and 2 others 
+list of guvi institutional investors
+h cl , located in no ida ( ind ia ), made their first investment in guvi on sep 19 , 2022 in its seed round 
+education catalyst fund , located in b eng al uru ( ind ia ), made their first investment in guvi on j ul 01 , 2021 in its seed round 
+cor porate business advisors , located in b eng al uru ( ind ia ), made their first investment in guvi on jan 14 , 2020 in its seed round 
+ten cent , located in she nz hen ( ch ina ), made their first investment in guvi on jan 14 , 2020 in its seed round 
+b har at inclusion initiative , located in ah med abad ( ind ia ), made their first investment in guvi on oct 01 , 2019 in its seed round 
+gray matters capital , located in at l anta ( united states ), made their first investment in guvi on apr 26 , 2018 in its angel round 
+view all guvi investors
+what does guvi do 
+develop er of vern acular based hyper local ment oring platform for providing online programming some of the courses offered by the platform include data structures , c , c , java , python , r or , machine learning , r programming , i os , and android , among others the courses are in the form of video lectures focusing on context based learning , short notes , coding playground , assignment , and assessments these video lectures are in vern acular languages , while the text contents are in english and the platform provides users with the option to choose the language of their choice as well 
+
+guvi , an i it mad ras inc ub ated ed tech startup , has launched large language model ( ll m ) features to support vern acular learners and hosted the na an mud hal van ann a university guvi tam il n ad u c oder s premier league , with over 82 , 500 engineering students participating the initiative aims to empower students in tam il n ad u through gener ative a i , enhancing in clus ivity and accessibility in technical learning 
+guvi may be growing as it has been reported to have evolved from a youtube channel to a startup valued at rs 150 crore this valuation indicates a significant level of investment and confidence in the company s business model and potential furthermore , the company s association with i it mad ras as an incub ated entity suggests access to resources and expertise that could facilitate its growth in the e learning sector the e learning platform s financial growth is a strong indicator of its expansion and success in the internet industry 
+
+guvi , an i it mad ras inc ub ated ed tech startup , has launched large language model ( ll m ) features to support vern acular learners and hosted the na an mud hal van ann a university guvi tam il n ad u c oder s premier league , with over 82 , 500 engineering students participating the initiative aims to empower students in tam il n ad u through gener ative a i , enhancing in clus ivity and accessibility in technical learning 
+guvi may be growing as it has been reported to have evolved from a youtube channel to a startup valued at rs 150 crore this valuation indicates a significant level of investment and confidence in the company s business model and potential furthermore , the company s association with i it mad ras as an incub ated entity suggests access to resources and expertise that could facilitate its growth in the e learning sector the e learning platform s financial growth is a strong indicator of its expansion and success in the internet industry 
+this workshop will empower the learners to build novice skills in the python programming language with the basic fundamentals & important core concepts 
+
+the following are the key take aways of the guvi s python workshop :
+cert ificate
+a brief introduction to python
+learn the programming structure of python
+learn all the conditional and loop ing statements
+get to know the data structures in python ( lists , tuple , sets , dictionary )
+learn what is an application server
+sc ratch the surface of the flask with a hello world program
+ar un pra k ash ,
+founder & chief technology officer of guvi 
+a versatile techn ologist with 17 years of technical experience with top organizations like pay pal , sym ant ec & honey well 
+program ming expertise with over 2 lakh efficient lines of code 
+built 7 products from an idea to a full fledged product stage 
+ment ored 1000 students
+200 industry specific training sessions taken
+open source contributor
+our courses are designed by i it professors & industry experts
+over 10 , 000 successful plac ements since establishment 
+sec ured trust of 4 7 lakh programmers by best owing them with extensive coding knowledge 
+200 companies found guvi viable for brid ging the talent p auc ity faced by the software industry
+1000 colleges believe in our focus on thriving the career of our learners by succeeding them with job ready skills 
+learning technology made easy with 90 courses in 5 different languages
+power hub of over 90 ind em and programming courses 
+cod ek ata an extensive coding practise platform with a 1000 question library 
+our courses are designed by i it professors & industry experts
+over 10 , 000 successful plac ements since establishment 
+sec ured trust of 4 7 lakh programmers by best owing them with extensive coding knowledge 
+200 companies found guvi viable for brid ging the talent p auc ity faced by the software industry
+1000 colleges believe in our focus on thriving the career of our learners by succeeding them with job ready skills 
+learning technology made easy with 90 courses in 5 different languages
+power hub of over 90 ind em and programming courses 
+cod ek ata an extensive coding practise platform with a 1000 question library 
+why guvi 
+an i it mad ras & i im ah med abad incub ated company , guvi is the world s first vern acular ed ute ch learning platform , which helps students master programming skills with the comfort of their native language 
+guvi is a premium educational application that provides you with a library of it reference materials here , you can learn about the latest it skills translated into a wide range of vern acular languages the app grants you access to well struct ured course content ranging from angular , machine learning , deep learning , and more 
+
+with the guvi app s help , you can also learn about solving problems in software development using the cod ek ata principle plus , it offers the chance to view a competitive programming setting with hand picked questions to improve your it knowledge and skills 
+
+expl ore a world class learning experience
+if you re looking for an ed tech program that can break language barriers in the field of programming , then you re in the right place guvi is a revolutionary platform that makes tech learning accessible in multiple vern acular languages , giving everyone the chance to study and know more about it values it provides you with multiple courses that are constantly updated , ensuring that you can stay updated with the latest technologies 
+
+this particular platform also features cod ek ata , an interactive outlet that can help you practice various programming principles with over 1 , 000 programming problems carefully selected by veterans , this process proves to be more than just a practice tool it can track your performance , develop a customized coding profile , and offer hints to improve your skills you can conveniently use it to prepare for coding interviews because it can boost your confidence 
+
+how ever , what sets this program apart from other ed tech platforms is its personalized approach all of your learning activities , data , and progress are meticulously tracked plus , it creates a detailed user activity profile that you can share with in app recruit ers offering exciting job opportunities however , users need to know that you must have 100 % progression for all quizz es and submissions to get a guvi certification 
+access various courses through guvi
+over all , the guvi ed tech platform is the ideal choice for those who want to enhance their skills in the field of information technology with courses in different vern acular languages , sought after topics , the latest technologies , cod ek ata , and a personalized approach , rest assured that the app can significantly improve your abilities the only downside is that to get a guvi certification , you must have 100 % in all available quizz es and submissions 
+
+guvi ( grab ur vern acular imprint ), a platform providing online education and technical skills training , was started with the mission to bridge the skill gap in the technology sector by offering high quality education in vern acular languages the key reasons behind the founding of guvi include :
+
+1 skill gap in technology : there was a recognized need to address the mismatch between the skills that employers required and what job seekers possessed , particularly in the tech industry guvi aimed to equip individuals with the necessary skills to meet industry demands 
+
+2 accessibility of education : traditional education systems often fell short in providing accessible , affordable , and effective tech education to a wide audience guvi was founded to make quality education more accessible to a diverse population 
+
+3 language barriers : many learners faced challenges due to language barriers , as most high quality educational content was available only in english guvi focus on offering courses in vern acular languages was to ensure that language was not a barrier to learning 
+
+4 demand for practical skills : there was a growing demand for practical , hand son experience in learning guvi emphasized project based learning and real world applications to ensure that learners gained practical skills alongside theoretical knowledge 
+
+5 online learning trends : the increasing trend and acceptance of online learning platforms provided an opportunity to reach a broader audience guvi lever aged this trend to deliver its courses online , making learning more flexible and accessible 
+
+by addressing these needs , guvi aimed to empower individuals with the skills required for better career opportunities , thus contributing to the overall growth of the technology sector 
+guvi offers a diverse range of courses covering various subjects and skill levels here are some common types of courses you can find on guvi :
+
+1 programming languages : guvi offers courses on popular programming languages such as python , java , javascript , c , c , and more these courses cover fundamental concepts , syntax , data structures , algorithms , and practical applications 
+
+2 web development : guvi provides courses on web development technologies , including html , c ss , javascript , react , angular , node js , and php learners can acquire skills in front end development , backend development , full stack development , and web application deployment 
+
+3 data science and analytics : guvi offers courses on data science , machine learning , and analytics , covering topics such as data pre processing , explor atory data analysis , statistical modeling , machine learning algorithms , and data visualization 
+
+4 artificial intelligence and deep learning : guvi provides courses on artificial intelligence ( ai ) and deep learning , enabling learners to understand concepts such as neural networks , conv olution al neural networks ( cn ns ), recurrent neural networks ( rn ns ), natural language processing ( nl p ), and reinforcement learning 
+
+5 cloud computing and dev ops : guvi offers courses on cloud computing platforms such as am azon web services ( aws ), micro soft az ure , and google cloud platform ( g cp ) learners can also explore dev ops practices , including continuous integration , continuous deployment , container ization , and infrastructure as code ( iac )
+
+6 soft skills and career development : guvi provides courses on soft skills , career development , and professional cert ifications these courses cover topics such as communication skills , leadership skills , time management , resume writing , interview preparation , and career planning 
+
+7 domains pe cific courses : guvi offers domains pe cific courses tailored to specific industries or job roles , such as cybersecurity , digital marketing , financial analysis , e commerce , game development , mobile app development , and more 
+
+8 project based courses : guvi offers project based courses where learners can work on real world projects to apply their skills and knowledge in practical scenarios these courses often include guided projects , case studies , and hand son assignments 
+
+9 cert ification courses : guvi provides certification courses that enable learners to earn industry recogn ized cert ifications upon successful completion these cert ifications validate learners skills and enhance their credibility in the job market 
+
+before enroll ing in a course on guvi , consider your learning goals , interests , and skill level to choose a course that align s with your needs additionally , check the course curriculum , instructor credentials , and lear ner reviews to ensure a positive learning experience 
+the duration of courses on guvi can vary depending on the topic , complexity , and learning format guvi offers courses with different d urations to cater to the needs and preferences of learners here are some common types of course d urations you might encounter on guvi :
+
+1 short courses : these courses typically last a few hours to a few days and focus on specific topics or skills short courses are suitable for learners who want to quickly acquire new knowledge or skills on a specific subject 
+
+2 week end boot c amps : guvi occasionally offers weekend boot c amps or workshops that span one or two days these intensive learning sessions cover a significant amount of material in a short period , making them ideal for learners with busy schedules 
+
+3 regular courses : regular courses on guvi can range from a few weeks to a few months in duration these courses often follow a structured curriculum with multiple modules or units , allowing learners to delve deeper into the subject matter and build a solid foundation of knowledge and skills 
+
+4 self paced learning : many courses on guvi are self paced , meaning that learners can complete them at their own pace within a flexible timeframe these courses typically provide access to course materials , videos , and assignments for a certain period , allowing learners to progress through the content at their own speed 
+
+5 sub scription based learning : guvi also offers subscription based learning models where learners have access to a library of courses and resources for a monthly or annual fee with this model , learners can choose the duration of their subscription based on their learning goals and preferences 
+
+before enroll ing in a course on guvi , it s essential to check the course description or syll abus to understand the duration , format , and requirements additionally , consider factors such as your availability , learning objectives , and preferred learning pace when selecting a course duration that suits you best 
+guvi has achieved several milestones and accomplishments since its inception some of these achievements include :
+
+1 impact ful learning platform : guvi has successfully established itself as a popular online learning platform , providing quality education in programming , technology , and other fields to a diverse audience 
+
+2 expanding course catalog : over the years , guvi has expanded its course catalog to offer a wide range of topics , including programming languages , web development , data science , artificial intelligence , and soft skills training 
+
+3 community engagement : guvi has built a strong community of learners , instructors , and industry professionals through forums , web in ars , and networking events , guvi fost ers collaboration , knowledge sharing , and ment orship opportunities among its community members 
+
+4 indust ry partnerships : guvi has formed partnerships with leading companies , educational institutions , and industry experts to enhance the quality and relevance of its courses these partnerships often result in collaborative projects , intern ships , and job opportunities for guvi learners 
+
+5 recognition and awards : guvi has received recognition and awards for its contributions to education and technology these accol ades validate guvi commitment to excellence and innovation in online learning 
+
+6 job plac ements : guvi has helped many of its learners secure job plac ements in top companies across various industries by providing job oriented training and career guidance services , guvi prepares its students for successful careers in the tech sector 
+
+7 social impact : through its initiatives , such as skill development programs for under priv ileged communities and educational outreach campaigns , guvi has made a positive social impact by empowering individuals with valuable skills and opportunities 
+
+over all , guvi achievements reflect its dedication to delivering high quality education , fostering community engagement , and making a meaningful impact in the online learning space 
+guvi is an online platform , so it doesn t have a physical location like a traditional school or learning center you can access guvi courses and resources from anywhere with an internet connection simply visit their website or download their mobile app to start learning 
+certain ly guvi offers several benefits to learners :
+
+1 struct ured learning paths : guvi provides structured learning paths for various topics such as programming languages , web development , data science , and more these paths guide learners through a series of courses and projects , ensuring a comprehensive understanding of the subject matter 
+
+2 hand son projects : guvi emphasizes hand son learning by offering projects and coding exercises these practical assignments help learners apply theoretical concepts in real world scenarios , reinforcing their understanding and skills 
+
+3 inter active learning experience : guvi platform is designed to provide an interactive learning experience learners can engage with course material through videos , quizz es , coding challenges , and interactive code editors , making the learning process more dynamic and engaging 
+
+4 self paced learning : guvi courses are self paced , allowing learners to study at their own convenience this flexibility is particularly beneficial for working professionals and students who may have other commitments 
+
+5 certification : guvi offers certificates upon course completion , which can be valuable for showcasing skills to employers and enhancing career prospects 
+
+6 community support : guvi fost ers a supportive community where learners can interact with instructors and peers this community aspect allows learners to ask questions , seek clarification , and collaborate on projects , creating a conducive learning environment 
+
+7 affordability : guvi offers a range of pricing options , including free courses and premium subscriptions this affordability makes quality education accessible to a wide audience 
+
+8 job assistance : guvi provides job assistance services , including resume building , interview preparation , and job referrals these resources can help learners transition into new careers or advance in their current roles 
+
+over all , guvi comprehensive approach to online learning , coupled with its focus on practical skills and community support , makes it a valuable platform for individuals looking to acquire new skills or advance their careers in the tech industry 
+guvi is an online platform that offers various courses and resources related to programming , technology , and career development it provides opportunities for learning programming languages , web development , data science , and other technical skills guvi aims to make learning accessible and engaging through interactive courses , projects , and assessments 
+
+here are some reasons why someone might choose guvi :
+
+1 quality content : guvi provides high quality content curated by experts in the field , ensuring that learners receive valuable and upt od ate information 
+
+2 interactive learning : the platform offers interactive learning experiences , including hand son coding exercises , projects , and quizz es , which help reinforce learning and retention 
+
+3 affordability : guvi offers courses at various price points , including free options , making it accessible to learners with different budgets 
+
+4 certification : completing courses on guvi often results in certificates , which can be valuable for showcasing skills to employers or for personal development 
+
+5 community support : guvi fost ers a community of learners where users can interact with instructors and fellow students , ask questions , and share knowledge and experiences 
+
+6 career opportunities : by learning ind em and skills on guvi , learners may enhance their career prospects and job opportunities in the tech industry 
+
+over all , guvi can be a valuable resource for individuals looking to improve their programming and technical skills , whether they are beginners or experienced professionals 
+
+guvi was started as a youtube channel in 2011 the channel posted video tutorials , courses , and practice materials created by ar un pra k ash , s ride vi ar un pra k ash , and sp bal am ur ug an the videos were posted in tam il , tel ugu , and mar athi , with the goal of reaching people not fluent in english 2 
+the trio quit their job in 2014 and started guvi as a company seeded with an initial capital of 1 , 000 , 000 , the startup was incub ated at the rural technology and business incub ator ( rt bi ) based out of i it mad ras the startup raised seed funding of 500 , 000 , and officially launched in no ve mber 2014 
+guvi received its first institutional round of funding of 10 , 000 , 000 , from us based gray matters capital s ed l abs in apr il 2019 3 it raised 60 , 000 , 000 in its pres eries a round of funding from education catalyst fund , an education focused venture capital fund managed by c ba capital , in apr il 2020 4 
+
+mission of guvi is to democrat ize tech education worldwide by meeting the standards of the ed tech industry 
+top vern acular ed tech company incub ated by i it m & i ima
+del ivering world class learning experience by providing highly effective & finest learning solutions , breaking the language barrier in tech learning to more than 2 million learners worldwide
+what is the turnover of guvi 
+guvi geek network s operating revenues range is in r 1 cr 100 cr for the financial year ending on 31 march , 20 23 it s e bit da has decreased by 175 74 % over the previous year at the same time , it s book net worth has increased by 137 61 % 
+
+what is the salary of guvi full stack developer 
+average base pay
+the estimated total pay range for a full stack developer at guvi is 60 t 3 l per year , which includes base salary and additional pay 
+what is guvi z en class 
+zen class career programs from guvi
+zen class is one of the industry s leading project based career programs offered by guvi that promises placement guidance on completing the course designed by our founders ( exp ay pal employees ), guvi also offers ment oring through experts from companies like google , micro soft , flip k art , z oho & fresh works 
+what is the annual revenue of guvi 
+the operating revenue of guvi geek network private limited is in the range of in r 1 cr 100 cr for the financial year ending on 31 march , 20 23 
+the highest paying job at guvi is a lead software engineer with a salary of 18 , 02 , 565 per year ( est imate ) the lowest paying job at guvi is a tech support intern with a salary of 2 , 40 , 679 per year ( est imate )
+chen nai ( t am il n ad u ) ind ia , no ve mber 30 ( ani news v oir ): i it mad ras incub ated startup ropes in ind ian women s cr ick eter sm rit i mand h ana as its brand ambassador 
+top 10 guvi alternatives & competitors
+guvi alternatives & competitor is up shift 
+guvi alternatives & competitor is thumb t ack 
+guvi alternatives & competitor is 99 design s 
+guvi alternatives & competitor is help ware 
+guvi alternatives & competitor is task r abbit 
+guvi alternatives & competitor is am azon mechanical tur k 
+guvi alternatives & competitor is finger h ut recruiting 
+guvi alternatives & competitor is won olo 
+
+guvi ( grab ur vern acular imprint ):
+
+1 over view :
+guvi is an ed tech company that originated from i it mad ras and is incub ated by i it m and c i ie ( i ima ) it provides online learning platforms primarily focused on technology and programming courses 
+
+2 location :
+guvi is based in c hen nai , tam il n ad u , ind ia 
+
+3 courses offered :
+guvi offers a range of courses in various programming languages and technologies such as python , java , c , javascript , data science , machine learning , artificial intelligence , full stack web development , and more 
+the platform provides these courses in multiple ind ian languages , making it accessible to a broader demographic 
+
+4 learning approach :
+guvi unique selling point is its focus on vern acular languages , helping non english speaking students to learn coding and technology skills in their native language 
+they offer vide ob ased tutorials , hand son coding exercises , and projects to facilitate practical learning 
+
+5 certification :
+upon completion of courses , learners can receive certificates that can be added to their professional profiles 
+
+6 collaborations and partnerships :
+guvi has partnerships with various educational institutions and tech companies to enhance the learning experience and provide industry relevant skills 
+they also collaborate with academic institutions to offer specialized courses and training programs 
+
+7 community and support :
+guvi has an active community of learners and mentors students can collaborate , share knowledge , and get support from peers and experts 
+they provide forums , live sessions , and other interactive platforms for lear ner engagement 
+
+8 job assistance :
+guvi offers job oriented courses and placement assistance they have tie ups with several companies to help students get intern ships and job plac ements 
+
+9 events and workshops :
+guvi frequently organ izes hack ath ons , coding challenges , web in ars , and workshops to keep learners engaged and updated with the latest trends in technology 
+
+10 recognition :
+guvi has gained recognition for its innovative approach to democrat izing education , especially in the tech domain , and has won several awards for its contributions to education technology 
+
+guvi is designed to help students land jobs after graduation and career assistance is included in the curriculum career services include one on one coaching , interview support , and job placement 
+
+guvi offers refunds within 7 days of the start of instruction guvi students have several payment options to increase accessibility 
+guvi offers a variety of courses and programs , each with its own fee structure the fees can vary based on the type of course , its duration , and the level of expertise it provides here are some general guidelines on the course fees at guvi :
+
+types of courses and fees
+n ano degree programs :
+
+these are comprehensive programs that cover a wide range of topics and typically last several months 
+f ees for nano degree programs can range from 30 , 000 to 1 , 00 , 000 or more , depending on the complexity and duration of the course 
+stand alone courses :
+
+guvi offers individual courses on specific topics such as programming languages ( python , java , c ), web development , data science , machine learning , etc 
+the fees for these courses can vary from 2 , 000 to 20 , 000 
+boot c amps :
+
+intensive training programs designed to teach specific skills in a short period , often a few weeks to a couple of months 
+f ees for boot c amps can range from 10 , 000 to 50 , 000 
+works hops and special programs :
+
+short term workshops or special programs focusing on niche topics or emerging technologies 
+f ees for workshops can range from 500 to 5 , 000 
+payment options and financial assistance
+install ment plans :
+
+many programs offer the option to pay the fees in installments , making it more affordable for students 
+sch olars hips and discounts :
+
+guvi often provides scholarships and discounts based on merit , need , or during promotional periods 
+emi options :
+
+some programs offer the option to pay through equ ated monthly installments ( emi ), making it easier to manage the cost over time 
+example fees for specific courses
+here are some examples to give a better idea of the fee structure :
+
+python programming course :
+
+fee : 5 , 000 to 10 , 000
+full stack web development nano degree :
+
+fee : 50 , 000 to 1 , 00 , 000
+data science and machine learning boot camp :
+
+fee : 30 , 000 to 75 , 000
+ai and deep learning specialization :
+
+fee : 40 , 000 to 90 , 000
+how to check specific course fees
+to get the exact fees for a particular course , you should visit the official guvi website and navigate to the course you are interested in each course page will provide detailed information on the curriculum , duration , and fees 
+
+guvi offers a range of courses with varying fees to cater to different learning needs and budgets whether you are looking for a comprehensive nano degree program , a specific skill course , or a short term workshop , guvi provides multiple options to fit your educational and financial requirements additionally , with payment plans , scholarships , and em i options , guvi aims to make quality technical education accessible to a broader audience 
+guvi was founded by ar un pra k ash m , bal a mur ug an m uth us amy , and s ride vi ar un p rak ash here is a brief introduction to the founders :
+
+ar un pra k ash m :
+ar un pra k ash is the co founder and c to of guvi he has a strong background in software development and has previously worked with companies like pay pal his expertise lies in building scalable tech solutions and educational platforms 
+b ala mur ug an m uth us amy :
+b ala mur ug an is the co founder and ce o of guvi he has a background in engineering and a keen interest in technology and education bal a has been instrumental in driving guvi vision of making high quality technical education accessible to all 
+s ride vi ar un p rak ash :
+s ride vi ar un p rak ash is the co founder and managing director of guvi she has extensive experience in education and has played a significant role in developing the curriculum and instructional design for guvi courses 
+
+introdu ction
+
+guvi is an innovative online learning platform that has revolution ized the landscape of technical education founded in 2014 , guvi primary mission is to make high quality technical education accessible to learners worldwide , regardless of their linguistic or geographical barriers through a blend of interactive learning , real world projects , and industry relevant skills , guvi em powers individuals to thrive in the e vere vol ving field of technology 
+
+2 history and founding
+
+guvi was founded by ar un pra k ash m , bal a mur ug an m uth us amy , and s ride vi ar un p rak ash , three vision aries who recognized the need for a more inclusive and accessible approach to technical education the journey began with a simple yet profound idea : to provide learners with the skills they need to succeed in the tech industry , delivered in a way that is engaging , practical , and accessible 
+
+found ers backgrounds
+ar un pra k ash m : with a background in software engineering and extensive experience at companies like pay pal , ar un brings deep technical expertise and a passion for education to guvi as the c to , he is responsible for the technological vision and innovation at guvi 
+
+b ala mur ug an m uth us amy : bal a , the ce o , has a strong background in engineering and management his vision for guvi is to democrat ize technical education and create a platform where anyone can learn and grow , regardless of their background 
+
+s ride vi ar un p rak ash : s ride vi , the managing director , has a rich experience in education and curriculum design she ensures that guvi courses are ped agog ically sound and aligned with industry needs 
+
+3 mission and vision
+
+mission
+guvi mission is to bridge the gap between theoretical knowledge and practical skills by providing accessible , high quality technical education that em powers learners to achieve their career goals and contribute to the tech industry 
+
+vision
+guvi env isions a world where anyone , regardless of their linguistic , cultural , or socioeconomic background , can access the education and resources they need to succeed in the tech driven world by fostering a community of learners and leveraging technology , guvi aims to create a global network of skilled professionals who are ready to tackle the challenges of the future 
+
+4 course offerings
+
+guvi offers a comprehensive range of courses designed to cater to learners at all levels , from beginners to advanced professionals the course offerings are categorized into several key areas :
+
+program ming languages
+guvi provides ind ep th courses on various programming languages , ensuring that learners gain a strong foundation in coding some of the popular programming languages taught on guvi include :
+
+python : known for its simplicity and versatility , python is a great starting point for beginners and is widely used in web development , data science , and automation 
+java : a robust , object oriented language used in enterprise level applications , android development , and large systems 
+javascript : the backbone of web development , essential for creating interactive and dynamic web applications 
+c : a powerful language for system programming , game development , and applications requiring high performance 
+c : used extensively in micro soft applications , game development with unity , and enterprise software 
+data science and analytics
+data science is one of the most sought after skills in today s job market guvi offers courses that cover the entire data science pipeline , from data collection and pre processing to advanced analytics and machine learning key courses include :
+
+data analysis with python : learn to use libraries like pand as , n umpy , and mat plot lib for data manipulation and visualization 
+machine learning with sc ik itle arn : understand the fundamentals of machine learning and implement algorithms using the sc ik itle arn library 
+deep learning with tens or flow and ker as : dive into neural networks and deep learning techniques using popular frameworks 
+big data analytics : explore tools and techniques for handling and analyzing large datasets , including had oop and spark 
+web development
+guvi web development courses are designed to equip learners with the skills needed to build modern , responsive websites and web applications courses include :
+
+front end development : learn html , c ss , javascript , and frameworks like react and angular to create user friendly interfaces 
+back end development : master servers ide languages like node js , python ( dj ango fl ask ), and php , along with databases like mysql and m ong od b 
+full stack development : combine front end and backend skills to build complete web applications from scratch 
+machine learning and a i
+art ificial intelligence and machine learning are transforming industries worldwide guvi offers advanced courses to help learners stay at the forefront of this technological revolution :
+
+natural language processing ( nl p ): techniques for processing and analyzing text data , including sentiment analysis , text classification , and language generation 
+computer vision : methods for image processing , object detection , and facial recognition 
+re in forcement learning : understand the concepts of reinforcement learning and its applications in areas like robotics and game development 
+emer ging technologies
+guvi is committed to keeping its curriculum upt od ate with the latest advancements in technology courses in emerging fields include :
+
+block chain technology : learn about decentralized applications , smart contracts , and cryptocurrency 
+cy ber security : understand the principles of network security , ethical hacking , and cybersecurity best practices 
+cloud computing : gain proficiency in cloud platforms like aw s , az ure , and google cloud , including services for computing , storage , and machine learning 
+5 educational method ologies
+
+guvi employs a variety of innovative educational method ologies to ensure that learning is effective , engaging , and applicable to real world scenarios 
+
+inter active learning
+guvi interactive learning approach involves engaging students through quizz es , coding exercises , and interactive videos this method helps reinforce learning and keeps students actively involved in their educational journey 
+
+hand son coding
+hand son coding is at the core of guvi educational philosophy the integrated coding platform allows students to practice coding in real time , providing immediate feedback and a practical understanding of programming concepts 
+
+real world projects
+guvi emphasizes the importance of real world projects to bridge the gap between theoretical knowledge and practical application students work on industry relevant projects that simulate real world challenges , enhancing their problems olving skills and preparing them for the job market 
+
+6 technological infrastructure
+
+guvi technological infrastructure is designed to provide a seamless and efficient learning experience key components include :
+
+learning management system ( l ms )
+guvi learning management system ( l ms ) is a robust platform that supports course delivery , student tracking , and performance assessment the l ms is user friendly and accessible , ensuring that students can easily navigate through their courses and track their progress 
+
+integ rated coding platform
+the integrated coding platform is a standout feature of guvi , enabling students to write , test , and debug code directly within the learning environment this platform supports multiple programming languages and provides real time feedback , making it easier for students to learn coding effectively 
+
+ai and machine learning in education
+guvi lever ages a i and machine learning to enhance the learning experience aid ri ven recommendations help personal ize learning paths , while machine learning algorithms analyze student performance data to provide insights and improve course content 
+
+7 mult ilingual support
+
+guvi commitment to accessibility is evident in its support for multiple languages recognizing that language can be a significant barrier to learning , guvi offers courses in several ind ian languages , including tam il , tel ugu , hind i , and k ann ada , in addition to english this mult ilingual approach ensures that learners can access educational content in their native language , making it easier to understand and retain information 
+
+8 personalized learning paths
+
+personal ized learning paths are designed to cater to the unique needs and goals of each lear ner guvi platform uses a i to analyze a student s progress and provide customized recommendations , ensuring that learners stay on track and achieve their objectives efficiently whether a student is looking to master a specific skill , complete a certification , or prepare for a job , guvi personalized learning paths provide the guidance and resources needed to succeed 
+
+9 industry relevant skills and collaborations
+
+guvi courses are developed in collaboration with industry experts and leading companies to ensure that the skills taught are relevant and in demand this industry alignment helps students acquire the knowledge and expertise needed to excel in the job market guvi partnerships with tech companies also provide students with opportunities for intern ships , projects , and job plac ements 
+
+10 career support and placement assistance
+
+guvi commitment to student success extends beyond the classroom the platform offers comprehensive career support services , including resume building , interview preparation , and job placement assistance 
+
+ment or support : guvi mentors provide one on one guidance and support throughout the course they conduct live sessions , offer feedback on assignments and projects , and help students navigate the complexities of game development with py game 
+
+project portfolio : guvi offers students the opportunity to build a portfolio of game development projects , showcasing their skills and creativity to potential employers projects include real world challenges and a comprehensive cap stone project 
+
+pre boot camp training : guvi conducts a pre boot camp training phase to assess students skills and determine the appropriate course level this ensures students are prepared for the intensive game development with py game program 
+
+cert ification : upon successful completion of the course , students receive a game development using py game certification from guvi , recognized in the game development industry 
+
+
+list of programs live classes with placement guidance
+full stack development , data science , aut om ation testing using se len ium , ui ux program , big data and cloud analytics , java automation testing , dev ops program , business analytics and digital marketing , art ificial intelligence & machine learning and more
+
+
+1 about guvi s full stack development course
+our i it m p rav art ak certified full stack development course with a i tools offers a pinnacle of real time learning and expert ment orship harness our a i powered platforms for round the clock project guidance and customized interview preparation from exciting hack ath ons to insightful web in ars and a supportive community , this course offers it all , with learning options in tam il , k ann ada , hind i , and english step into the full stack development industry with confidence and a network of industry leaders to back you 
+format : online
+duration : 3 months ( week days ) 5 months ( week ends )
+course : live online classes lifetime access to recorded videos
+h iring partners : 200 companies
+program fee : 94 , 999 ( in clusive of g st )
+emi options : upt o 12 months
+
+full stack development syll abus
+guvi s full stack development course includes eight modules designed to build and enhance your web development skills , focusing on the m ern stack 
+module 1 : js basics covers foundational javascript concepts and es 6 features like arrow functions and object destruct uring module 2 : html , c ss , boot strap teaches web development essentials from basic tags to advanced styling module 3 : advanced js dives into dom manipulation , asynchronous programming , and practical projects module 4 : react js focuses on creating dynamic single page applications with state management and cr ud operations using ax ios module 5 : redu x covers state management with redu x , including redu cers , actions , and async data fetch ing module 6 : database provides insights into mysql and m ong od b , mastering cr ud operations and quer ying data module 7 : node js teaches backend development with node js , express js , authentication , and m ong od b integration module 8 : m ern full stack demo guides you in building cutting edge web applications with the m ern stack 
+
+
+2 about guvi s data science course i it m p rav art ak certified advanced programmer with data science mastery program is a leading edge technological program paving your way to an assured lucrative career it is an integrated course directed by guvi an i it m incub ated company instructed by the industry s best technical experts & founders ( ex pay pal employees ), this program offers ment orship through data experts and directs you to the fortune 500 companies the vision is to make the premium organizations discover the right talent through guvi s z en class 
+format : online
+duration : 3 months ( week days ) 5 months ( week ends )
+course : live online classes lifetime recorded videos
+h iring partners : 200 companies
+emi options : upt o 12 months
+program fee : 94 , 999 ( in clusive of g st )
+
+data science syll abus
+guvi s data science course offers a detailed pathway for mastering data science and machine learning , structured into 25 modules 
+this program s curriculum is comprehens ively designed to help learners acquire data science compet encies while working with hands on projects using prominent technologies like python , m ong od b , pand as , n umpy , table au & power bi data methods join the league of emerging data scientists who utilize their best skills to find the best trends and to manage the data as analytical data experts 
+
+3 aut om ation testing with se len ium
+ac quire exponential growth in software automation by mastering in demand skills like se len ium , python , java , j en kins , j meter , api testing , and more this certification course will assist you in proc uring a 360 degree view of automation technology get into professional career focusing on the quality of product & process development with hands on software automation training 
+format : online
+duration : 5 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 94 , 999 ( in clusive of g st )
+
+about automation testing with se len ium
+exp and your digital footprint by gaining end to end expertise in automation testing with se len ium this leading edge technological program delivers the top not ch automation skills imb ib ed in the current software industry for evaluating product quality and assurance curated by subject matter experts at guvi instructed by the industry s best technical experts & founders ( ex pay pal employees ), this certification program imp arts all rounder skills in automation testing this program : automation testing with se len ium incorporates ped ag ogical tools focusing on industry expectations that will direct you to the jobs in fortune 500 companies 
+
+why automation testing 
+indust ry trends represent an overall transition to automation the global automation testing market size is anticipated to grow by 28 8 billion by 2024 at a compound annual growth rate ( c ag r ) of 18 %, as per reports from markets and markets report that leads to a 40 % annual growth in automation testing job roles in varied industries so , are you ready to upgrade yourself 
+
+aut om ation testing syll abus
+guvi s software testing and automation course covers 10 modules 
+module 1 : manual testing introduces software testing , s dl c , method ologies , test design , q a & q c , and agile module 2 : python covers python basics , loops , data structures , functions , o op , and essential packages module 3 : web basics includes html , c ss , and dom fundamentals module 4 : data source focuses on json handling and mysql basics , including normal ization and queries module 5 : se len ium teaches se len ium with python , its architecture , and ide setup module 6 : se len ium architecture del ves into dom usage , test writing , navigation , and head less browsers module 7 : locating elements explains finding elements by id , name , c ss , and x path module 8 : web driver api covers exceptions , action chains , alerts , browser specific drivers , and wait support module 9 : automation framework discusses framework architecture , page object model , data driven , and keyword driven frameworks module 10 : git & j en kins introduces git , github , and j en kins setup for automation this course ensures a comprehensive understanding of software testing , python , web basics , data handling , se len ium , automation frameworks , and version control 
+
+
+4 ui u x design program
+zen classes are a series of career courses by guvi an i it mad ras incub ated company the classes are focused on project based learning and encouraged to work on real time projects this program incorporates the most trending design tools focusing on industry expectations directing you to fortune 500 companies 
+format : online
+duration : 5 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 94 , 999 ( in clusive of g st )
+
+is u i u x a good career 
+the demand for u i u x designers is increasing day by day u i u x job is ranked 6 th on glass doors top 25 highest paying entry level jobs everything is becoming digital in this era , which means most product or service based companies require a u i u x designer for their needs that s why the demand & the average salary for a u i u x designer are increasing every year 
+
+ui u x job roles
+ux designer , ui designer , ux ui designer , ux researcher , ux writer , ux architect , ux strategist , product designer , product manager
+
+ui u x course eligibility
+working professionals who want to start their career in u i u x domain ,
+grad uates interested in learning u i u x to get their first job ,
+stud ents aspiring to become a u x u i designer 
+
+ui ux syll abus
+guvi s u x design course is organized into six concise modules
+module 1 : u x fundamentals covers business requirement gathering , user research , and interview techniques module 2 : research data analysis focuses on competitor benchmark ing and he uristic analysis module 3 : ide ation includes techniques , white boarding , journey maps , motivation and empathy mapping , information architecture , navigation , content through card sorting , sit em aps , and user flows module 4 : testing covers a b testing , remote usability testing , and guerrilla testing module 5 : tools introduces fig ma , ad obe x d , ad obe phot oshop , ad obe illust rator , and m iro board module 6 : advanced concepts explores he uristic principles , u x laws , case studies , minimal ism vs maximal ism , and cognitive bias this course equ ips learners with comprehensive u x design skills , from research and ide ation to testing and advanced principles 
+
+5 big data and cloud analytics
+about the big data and cloud analytics
+the i it m p rav art ak and aw s certified advanced professional course in big data and cloud analytics is a leading edge technological program paving your way to an assured lucrative career it is an integrated course directed by guvi an i it mad ras incub ated company instructed by the industry s best technical experts & founders ( ex pay pal employees ), this program offers ment orship through data engineering experts and directs you to the fortune 500 companies the vision is to make the premium organizations discover the right talent 
+format : online
+duration : 5 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 94 , 999 ( in clusive of g st )
+
+cur ric ulum of big data and cloud analytics
+get introduced to the different aspects of data engineering and stay ab re ast with the advanced tools and technologies that go hand in hand to make a brand a fire master the data engineering skills that the present ty co ons & top data engineers follow 
+module 1 : python module 2 : python ( ad vance ) module 3 : sql module 4 : r db ms module 5 : system design module 6 : m ongo db module 7 : shell script module 8 : git
+module 9 : aw s cloud module 10 : snow flake module 11 : airflow module 12 : big dat am od ule 13 : k af k am od ule 14 : spark module 15 : data cleaning module 16 : prom etheus
+module 17 : data dog module 18 : docker module 19 : k uber net es
+the big data and cloud program offered by guvi consists of a comprehensive set of 19 modules designed to equip learners with essential skills and knowledge in various domains the syll abus includes foundational courses such as python and python ( adv anced ), which lay the groundwork for programming it progresses into database management with sql , r db ms , and m ong od b , and covers important system design principles the curriculum also includes modules on shell script and git for scripting and version control 
+cloud technologies are covered extensively with aw s cloud and snow flake the program del ves into data workflow management with airflow , and large scale data processing and analytics with big data , k af ka , and spark data cleaning is included to ensure learners can handle and pre process data effectively monitoring and performance tools like prom etheus and data dog are also part of the syll abus finally , the program rounds off with container ization and orche stration technologies such as docker and k uber net es over all , the program offers a robust education on big data and cloud technologies , ensuring participants are well vers ed in both foundational and advanced topics in the field 
+
+6 java automation testing program
+ad vance your career in software automation testing by mastering in demand skills like se len ium , java , j en kins , j meter , api testing , and more this certification course will assist you in proc uring a 360 degree view of automation technology get into professional , quality product & process development with hands on software automation testing training 
+week day ( 3 months ) weekend ( 5 months ) live online classes lifetime recorded videos
+format : online
+duration : 5 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 94 , 999 ( in clusive of g st )
+
+why java automation testing program 
+exp and your digital footprint by gaining end to end expertise in java automation testing this leading edge technological program delivers the top not ch automation skills imb ib ed in the current software industry for evaluating product quality and assurance curated by subject matter experts at guvi an i it mad ras incub ated company , and instructed by the industry s best technical experts , this certification program imp arts all around skills in automation testing 
+java automation testing program incorporates ped ag ogical tools focusing on industry expectations directing you to the top companies 
+
+why automation testing 
+indust ry trends represent an overall transition to automation the global automation testing market size is anticipated to grow by 28 8 billion by 2024 at a compound annual growth rate ( c ag r ) of 18 %, as per reports from markets and markets report that leads to a 40 % annual growth in automation testing job roles in varied industries so , are you prepared 
+
+program eligibility :
+stud ents , fres hers , engineers , software developers , and other working professionals who are interested in software development and automation 
+any interested candidate with a technical degree or equivalent
+
+cur ric ulum of java automation testing program
+get a peek through the entire curriculum designed by our industry experts
+the java testing and automation program offered by guvi consists of 16 detailed modules aimed at providing comprehensive knowledge and skills in software testing the syll abus begins with an introduction to testing and manual testing in module 1 , followed by test case creation and bug reporting in module 2 module 3 covers version control , crucial for managing changes in code core java is addressed in module 4 to provide a strong programming foundation
+aut om ation testing is introduced in module 5 , and the basics of web elements are covered in module 6 module 7 focuses on se len ium , a key tool for automation testing , followed by build control tools in module 8 advanced se len ium topics such as browser and data driven testing are covered in module 9 module 10 integrates se len ium with database testing 
+fram eworks like page object model and test ng are explored in modules 11 and 12 , respectively test execution reports and auto it are detailed in module 13 continuous integration is covered in module 14 , followed by b dd with cuc umber in module 15 the program concludes with addon sessions in module 16 to enhance and consolidate learning 
+over all , the program equ ips learners with both foundational and advanced skills in manual and automation testing , ensuring a thorough understanding of testing tools and practices 
+
+7 dev ops program
+about dev ops program
+un ve il a program that features the perfect mix of theory , live virtual classes , case studies , and extensive hands on practice to prepare you for a fast growing field that bridges the gap between software developers and operations throughout the dev ops program , you will learn the main characteristics of dev ops processes , tools , and people involved during the lif ecycle 
+dev ops offers a definite career path that promises steady growth as a dev ops engineer , you will possess extensive knowledge of s dl c ( software development life cycle ), and you will know how to jugg le coding , integrating , and testing 
+week day ( 3 months ) weekend ( 5 months ) live online classes lifetime recorded videos
+format : online
+duration : 5 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 94 , 999 ( in clusive of g st )
+
+why you should enroll in dev ops 
+at its core , dev ops is a set of cultural philosophy , tools & practice that assists companies to build , test & deploy software & services more reliably at a faster rate traditionally , it had two separate teams in an organization the development team & operation team under a dev ops model , software development & operations are not isolated but rather syn ced in a rhythm for continuous delivery contin ous integration 
+with time , many sm es are adapting agile method ologies which have been at the forefront of silicon valley giants for the last decade jobs with dev ops in the title have become very popular over the last few years companies are in dire need of dev ops talents who can maximize their productivity through automation 
+
+dev ops
+dev ops is a software development approach emphasizing collaboration , automation , and continuous delivery to provide high quality products to customers quickly and efficiently the only difference is between their adapted methods a dev ops engineer priorit ise agility & is aware of enterprise architecture knowledge , application development environment , testing department & a better idea of how to move things so that the whole project moves faster 
+
+full stack development
+a full stack developer is a developer or engineer who can build both the front end & the back end of a website the front end & the back end require different skill sets the only difference is between their adapted methods a full stack developer is a versatile developer who runs a marathon which gives him enough time to maintain consistency & pace whereas a dev ops engineer priorit ise agility he she is aware of enterprise architecture knowledge , application development environment , testing department & a better idea of how to move things so that the whole project moves faster 
+
+cur ric ulum of dev ops
+dev ops is a software development methodology that combines software development ( dev ) with information technology operations ( ops ) participating together in the entire service lif ecycle , from design through the development process to production support 
+the dev ops program at guvi provides a comprehensive understanding of dev ops principles and practices , integrating software development with it operations the curriculum is structured into eight detailed modules module 1 introduces dev ops , setting the foundation for the course module 2 del ves into linux ( cent os 7 ubuntu ), essential for managing servers and environments vag rant and linux file servers are covered in module 3 , facilitating the creation of consistent development environments bash scripting , taught in module 4 , equ ips learners with the skills to automate tasks module 5 focuses on git , a critical version control system for tracking changes in source code introduction to containers and dock ers are explored in modules 6 and 7 , respectively , providing knowledge on container ization technology the program culmin ates with module 8 , which covers aw s infrastructure , teaching students how to manage and deploy applications on the cloud overall , this program ensures learners are well vers ed in both the foundational and advanced aspects of dev ops , making them proficient in managing the entire service lif ecycle from design to production support 
+
+8 masters in business analytics and digital marketing
+business analytics is pivot your business objectives into measurable actions identify , leverage , and improv ise dramatically with accurate digital marketing analytics and boost your business to benefit everyone 
+6 months ( week end ) live classes lifetime recorded videos only for working professionals & graduates
+format : online
+duration : 6 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 94 , 999 ( in clusive of g st )
+
+why business analytics and digital marketing 
+our comprehensive program in business analytics and digital marketing will help to gaze a wealth of insight into your marketing performance with the right tools and techniques in analytics this leading edge technological program delivers the top not ch analytical skills that will enable you to stand out in the current business & marketing industry 
+cur ated by tech professionals at guvi ( an i it mad ras incub ated company ), and instructed by the industry s best subject matter experts , this certification program incorporates ped ag ogical tools focusing on industry expectations and trends and provides placement guidance 
+why business analytics and digital marketing 
+in the data driven world , massive amounts of data are collected on the requirements and behaviour of consumers business analytic tools can be used to tailor the marketing campaigns to the consumer s expenditure , habits and preferences leveraging the best of all channels 
+
+cur ric ulum overview for business analytics and digital marketing
+this comprehensive curriculum is designed to ensure placement guidance by integrating core principles of business analytics with essential digital marketing skills over the course of 18 weeks , students will gain a deep understanding of data manipulation , visualization , and digital marketing strategies 
+the program begins with data wr angling in excel and progresses to advanced sql techniques , providing a solid foundation in data handling students will then delve into statistics and data visualization using both excel and power bi the curriculum also covers the basics of digital marketing , including se o , social media marketing , and content marketing , while introducing essential tools like google analytics 
+in the latter part of the program , students explore predictive analytics , cluster analysis , and r fm analysis for marketing the use of table au for data visualization is also emphasized the final weeks are dedicated to interview preparation and a cap stone project , ensuring that students are well equipped for the job market this holistic approach ensures that graduates are prepared for successful careers in the dynamic fields of business analytics and digital marketing 
+
+9 art ificial intelligence & machine learning course
+zen class career program offers the high end course to master artificial intelligence & machine learning with certification accredited by i it m p rav art ak gain job ready a i & ml skills within 5 months through 360 degree career guidance & globally recognized skill cert ifications 
+format : online
+duration : 5 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 94 , 999 ( in clusive of g st )
+
+about guvi s z en class
+zen class offers the industry s leading project based professional courses powered by guvi ( an i it m & i im a incub ated ed tech company ), the z en class is exclusively curated by the founders ( ex pay pal employees ) with world class ment orship from industry experts , a vern acular approach in up sk illing & more than 600 top companies like google , micro soft , and flip k art , as hiring partners , z en class gives a competitive advantage for its learners to land their dream job 
+
+about our i it m p rav art ak certified a i & ml program
+i it m p rav art ak certified a i & ml program is an advanced career program from guvi s z en class this program will help you become an artificial intelligence & machine learning expert in just 5 months the goal of this course is to help students working professionals up skill and equip themselves with the job skills required to build and deploy a i & ml models in production using cloud
+
+why learn a i & ml in 2024 
+by the end of 2024 , a i is forecast ed to create 2 3 million jobs , with the highest demand for roles such as a i developers , machine learning engineers & data scientists also , according to studies done by the world economic forum ( we f ), domains such as artificial intelligence , machine learning , and data analytics could create 133 million new jobs globally the average salary earned by a professional a i & ml engineer is 11 3 lakh s per ann um in ind ia 
+high salary high job demand wide scope of a i & ml in ind ia
+
+cur ric ulum
+in this program , we adopt a case study methodology to dissemin ate the latest developments in cloud technologies , deep learning , n lp and machine learning model building and its deployment with the fundamentals of artificial intelligence 
+the curriculum focuses on cutting edge advancements in artificial intelligence ( ai ), emphasizing practical skills in cloud technologies , deep learning , natural language processing ( nl p ), and machine learning model development and deployment it adop ts a case study methodology and includes live classes with mentor support throughout starting with foundational modules like a i for everyone and an introduction to a i trends , the program progresses through python basics and advanced topics , including data handling with pand as and sql explor atory data analysis ( eda ) and data visualization using mat plot lib and se ab orn are covered to build essential data analysis skills machine learning concepts are extensively covered from refres her courses to deep learning techniques using py tor ch , focusing on both image processing with conv olution al neural networks ( cn ns ) and n lp with neural networks the curriculum also introduces large language models ( ll ms ) and prompt engineering techniques using open ai the culmination of the program includes final projects that allow students to apply their knowledge and skills acquired throughout the modules , ensuring they are well pre pared for careers at the forefront of a i and machine learning 
+
+10 c ad design and simulation
+bec ome a certified mechanical cad professional
+guvi s z en cad course for mechanical engineers is the perfect place to start your journey to becoming a skilled cad professional our course equ ips you with industry recogn ized cert ifications from guvi , including those from aut odes k and i it m p rav art ak you ll get to explore cad tools such as aut oc ad , solid works , and cat ia , among others , along with their applications in areas like automotive , electrical , and machine design systems , to name a few by the end of the course , you ll have a firm grasp of the foremost tasks used in mechanical cad technology , such as drafting , designing , assembly , motion study , mechanical analysis and so forth the course structure is comprehensive , and you can learn at your own pace through boot camp style up sk illing with expert guided ment orship and real time cad mechanical projects , you ll gain practical experience to excel in this competitive field enroll today 
+format : online
+duration : 6 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 1 , 85 , 000 ( in clusive of g st )
+
+why pursue a mechanical cad course 
+c ad course for mechanical engineering students & graduates is a powerful asset to latch on to unlimited career opportunities computer a ided design is a fast growing segment of the job market & so the demand for design & drafting jobs is strongly predicted to grow through the next decade the growth rate is about 7 % for the computer a ided design ( c ad ) industry , according to the bureau of labor statistics with popular design tools like aut oc ad , solid works & cat ia and analysis tool like ans ys and so on , are included in this mechanical cad course , even a fresh graduate as a cad skilled mechanical engineer will earn an average annual salary of 5 0 lakh s & can earn up to 7 7 l pa 
+
+me chan ical cad course syll abus
+the i it m p rav art ak & aut odes k cert ified cad course is comprehens ively curated to complement the knowledge gained through mechanical engineering the syll abus has been designed by industry experts & mapped to meet the requirements of mechanical industries 
+
+the i it m p rav art ak & aut odes k cert ified cad course is meticulously crafted to enhance the skills acquired in mechanical engineering developed in collaboration with industry experts , the syll abus is tailored to align with the specific needs of mechanical industries 
+the curriculum begins with aut oc ad mechanical , providing foundational knowledge in computer a ided design ( c ad ) it then progresses to solid works , focusing on 3 d modeling and design cat ia , including modules on cat ia k inem atics , further expands on advanced cad techniques 
+an introduction to ans ys work bench follows , emphasizing engineering simulation and analysis the inclusion of geometric dimension ing and toler ancing ( gd & t ) enhances precision in design and manufacturing processes 
+the course culmin ates in an assessment and project phase , allowing students to apply their skills and demonstrate their understanding in practical scenarios overall , the program aims to equip students with the expertise needed to excel in the mechanical industry s rigorous demands 
+
+11 c ad building design and analysis
+enh ance your career with civil cad certification
+guvi s aut odes k and i it m p rav art ak certified cad course for civil engineers will make you an expert in civil c ad with globally recognized cert ifications , our course is designed and taught by industry experts to empower you with the essential aut oc ad , rev it , 3 d sm ax , etc , needed for modern civil design our approach will help you uncover 2 d and 3 d design , transforming your ideas into precise architectural and structural plans furthermore , you ll learn the art of careful drafting , detailing , 3 d modeling , structural analysis , etc , thus setting yourself up for greater accuracy and efficiency in your projects like never before our unique boot camp style up sk illing approach will help you become a skilled civil cad professional , ready to conquer the real world challenges of civil engineering 
+format : online
+duration : 6 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 1 , 85 , 000 ( in clusive of g st )
+
+d iscover the benefits of a civil cad course 
+c ad course for civil engineering students & graduates will mobilize them to grab on the innumerable career opportunities computer a ided design is a fast growing segment of the job market & so the demand for design & drafting jobs is strongly predicted to grow through the next decade the growth rate is about 7 % for the computer a ided design ( c ad ) industry , according to the bureau of labor statistics with popular design tools like aut oc ad , rev it , 3 ds max included in this civil cad course , even a fresh graduate as a cad skilled civil engineer will earn an average annual salary of 5 0 lakh s & can earn upt o a maximum salary of 20 l pa 
+
+sy ll abus
+the i it m & aut odes k cert ified cad course is comprehens ively curated to complement the knowledge gained through civil engineering the syll abus has been designed by industry experts & mapped to meet the requirements of civil industries
+the i it m & aut odes k cert ified cad course for civil engineering offers a comprehensive curriculum designed to augment existing knowledge in the field developed in collaboration with industry experts , the syll abus is meticulously aligned with the specific requirements of civil industries 
+the course begins with aut oc ad , focusing on essential skills in computer a ided design ( c ad ) for civil engineering applications it then progresses to building information modeling ( b im ), emphasizing collaborative design and project management 
+rev it architecture follows , providing advanced tools for architectural design and documentation the inclusion of 3 ds max enhances skills in 3 d modeling and visualization , crucial for architectural presentations sta ad pro introduces structural analysis and design , emphasizing engineering principles for building structures the curriculum culmin ates with an assessment and project phase , allowing students to apply their skills practically 
+upon completion , students receive a certificate , and the course includes interview preparation to enhance career opportunities in the civil engineering industry overall , the program aims to equip students with comprehensive skills to excel in civil engineering projects and meet industry demands effectively 
+
+12 master animation in motion graphics
+bec ome a certified professional in
+guvi ( an i it m & i im a incub ated ed tech ) certified animation in motion graphics course of z en class is a highly adv anced & innovative program for aspir ants aiming for a career in the animated graphic design industry 
+this is a comprehensive online live class learning course that covers the latest design tools & techniques that motion graphics designers use to create vivid videos , illustrations & visuals for the web , apps , television , or films extensively instructed by the industry s best motion graphics experts under the guidance of founders ( ex pay pal employees ) this is a best motions graphics course that offers ment orship & career guidance 
+format : online
+duration : 6 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 85 , 000 ( in clusive of g st )
+
+why master animation in motion graphics 
+in the era of work from home & online jobs , a motion graphics designer role will be boon in the booming animated graphics design industry explore your chances to position yourself as a freel ancer , in house animation expert or even as motion graphics professional working in corporate sector equip yourself with the required skills et and hands on experience through our z en class motion graphics course to compete for top professional positions with a potential to earn salaries ranging from 7 lakh s to 17 lakh s 
+
+sy ll abus
+the certified design & animation course of z en class is innov atively curated to spark the creativity of the budding anim ators & aspir ants of motion graphics design the syll abus has been designed by industry experts & mapped to meet the requirements at its best in motion graphics industry 
+the z en class certified design & animation course is meticulously designed to ignite the creativity of aspiring anim ators and motion graphics designers developed in collaboration with industry experts , the syll abus is finely tuned to meet the highest standards of the motion graphics industry 
+the course begins with module 1 , providing an introduction to motion graphics animation and digital design , setting a foundational understanding for students module 2 focuses on creating story boards , essential for planning and visual izing animated sequences 
+moving forward , module 3 del ves into the concepts of graphic & illustration , enhancing students skills in visual storytelling and graphic design principles module 4 covers the basics of compos iting , teaching students the art of combining visual elements into cohesive compositions 
+in module 5 , students learn the art of editing , crucial for refining animations and creating seamless transitions u i animation is explored in module 6 , where students gain insights into designing interactive user interfaces with animated elements 
+the course culmin ates with module 7 , dedicated to portfolio development and the final project here , students showcase their skills and creativity through practical projects that demonstrate their proficiency in motion graphics and animation 
+over all , the z en class design & animation course offers a comprehensive journey through essential concepts and practical skills , preparing students to excel in the dynamic and competitive field of motion graphics design 
+
+13 cloud computing with micro soft az ure
+enh ance your career with az ure certification
+guvi ( an i it m & i im a incub ated ed tech ) offers a game changing cloud computing program packed with advanced concepts align ing with micro soft az ure on z en class this comprehensive course prepares you with meticulous guidance & strategies to achieve micro soft global certification a prestigious partnership with micro soft future ready talent will mobilize the learners to upgrade their cloud computing careers with expert ment orship for the industry , github s student developer pack , us d 100 of az ure credit to build and work on projects , internship opportunities & globally recognized cert ifications 
+format : online
+duration : 6 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 1 , 25 , 000 ( in clusive of g st )
+
+why pursue an advanced cloud computing course 
+in the digital era , advanced cloud computing professionals are experts in revolution izing the way businesses and organizations manage their data and applications pursuing this course will give a hands on learning experience with micro soft az ure one of the leading cloud service providers in the world az ure skills will empower businesses to scale , innovate , and drive digital transformation , further transforming skilled professionals into valuable assets for the industry 
+zen class advanced cloud computing course will best ow the necessary skills required to crack the micro soft az ure global certification with added perks offered by future ready talent platform gain the potential to earn salaries ranging from 4 lakh s to 14 lakh s the average salary of a well vers ed az ure cloud computing professional is 6 lakh s 
+
+adv anced cloud computing program syll abus
+the advanced cloud computing course with micro soft az ure of z en class is thoroughly curated to harness the full potential of az ure by its learners the syll abus is designed to highlight your career profile with the abilities to implement cloud services that enable cost efficiency , scal ability , and enhanced security which is followed by value added cert ifications , and internship opportunities in collaboration with micro soft future ready talent platform 
+
+the micro soft az ure certified course comprises six modules designed to equip participants with comprehensive knowledge and practical skills in cloud computing and az ure services module 1 introduces participants to micro soft az ure , providing an overview of its capabilities and features within the cloud computing landscape 
+module 2 covers micro soft az ure fundamentals , focusing on foundational concepts , principles , and basic cloud services provided by az ure in module 3 , participants learn about az ure infrastructure management , including topics such as virtual machines , storage solutions , networking , and security within az ure module 4 del ves into az ure app services and server less computing , exploring how to deploy and manage web applications , ap is , and server less functions on az ure 
+az ure a i and cognitive services are the focus of module 5 , where participants gain insights into integrating a i capabilities into applications using az ure services 
+f inally , module 6 addresses az ure solutions architecture and high availability , emphasizing design principles , best practices for scal ability , reliability , and maintaining high availability in az ure solutions 
+over all , this structured curriculum ensures that participants acquire a comprehensive understanding of micro soft az ure , preparing them for leveraging az ure services effectively in various it environments and applications 
+
+13 data structures and algorithms course with python
+guvi s z en class data structures and algorithms with python course offers to unlock the power of data and logic that puts you on the path to success in the it software industry hone your coding skills and enhance your career prospects within 6 months through hands on learning , 360 degree career guidance , globally recognised cert ifications , and placement guidance 
+format : online
+duration : 6 months
+course : live online classes lifetime recorded videos
+h iring partners : 100 companies
+emi options : upt o 12 months
+program fee : 85 , 000 ( in clusive of g st )
+
+about guvi s d sa course with python
+guvi s z en class d sa course with python em powers learners aspiring for competitive programming and software development begin with the basics , understand how computers work , and the fundamentals of programming , including python s variables , data types , and operators get familiarity with algorithm design , rec ursion , searching , and sorting , which provides you with the skills to solve complex problems efficiently our comprehensive course unlocks your potential to gain a strong grip on data structures such as linked lists , stacks , and queues and introduces you to object oriented programming , trees , and advanced data structures cataly ze your career profile with the industry best python programming skills & placement guidance included in the z en class placement wing for your future 
+
+
+guvi for corporate
+one stop solution for training , hiring , and corporate social responsibility 
+switch to the ultimate suite of hand picked solutions that deliver results at significantly less cost , time , and effort up skill with the best training programs , hire top tech talent , and target your c sr initiatives for maximum impact , all at once 
+special ized corporate training programs
+ups kill employees to drive business outcomes
+bridge the skill gap between your talent and industry standards with the best training program across 20 vertical s tailored to your business needs 
+completely custom made journeys
+ai enabled assessments to enhance skill application
+strong pool of mentors
+rich library of self paced videos
+cor porate hiring
+stream line your talent pipeline
+optim ize your hiring process with zero cost talent acquisition by tapping into a diverse and skilled talent pool , reducing both time and expenses 
+access pre qualified candidates
+d iversity and inclusion goals
+efficient hiring process
+cor porate social responsibility solutions
+am pl ify your corporate social responsibility impact
+boost your corporate social responsibility efforts by up sk illing your focus communities and enhance your brand s social footprint our initiatives are enabled with vern acular delivery to maximize in clus iveness and accessibility 
+employment driven programs
+women em power ment programs
+blue collar workers sk illing program
+he ar from our satisfied clients
+top enterprises and businesses found the perfect solution to their corporate needs here s what they say about their experience 
+cor porate training
+ guvi custom ises for us 
+our company regularly partners with guvi for our training requirements we are extremely satisfied with the training provided by guvi and the quality of its mentors guvi is very flexible in custom izing curriculum we have received very positive feedback from management teams about the performance of employees 
+ hr at the ind ia center of a us based insurance major
+
+ guvi s assistance 
+our collaboration with guvi has been extremely beneficial , as guvi tailored the training programme to our specific requirements and filled the gap it unquestion ably helped us by improving their coding abilities they offer continuous assistance throughout the training programme 
+ project manager at a top tech solutions provider
+
+ flex ible training 
+guvi is very flexible in custom izing curriculum as per our team s project skills et requirements we have trained numerous teams across the globe and have received overwhelmingly positive feedback from our employees , so we are delighted to be collaborating with guvi 
+ director of sw en gg at a multinational satellite services firm
+
+tech hiring
+ we found right talents 
+it was a great experience working with guvi guvi is a great place to find the right talent , and that too at zero costs involved thanks for the support , guvi 
+ ass ociate director at a top tech solutions provider
+
+ ref res hing experience from guvi 
+it was a very nice and refreshing experience to have collaborated with you and guvi for the first time in our recruitment drive of hiring trained candidates engine ers for our organization the entire process was very efficiently handled , right from providing candidates with great potential as per our needs 
+ hr executive at a top tech solutions provider
+
+ hel ped us in closing requirements 
+our association with guvi has been very good so far and it turned out to be a good experience as well we have closed almost 3 positions through guvi we are looking forward to an extended collaboration with guvi 
+ founder & ce o at a top tech solutions provider
+
+hack erk id
+what is hack erk id and how does it work 
+hack erk id is a next generation platform that helps kids learn coding in a gam ified environment through games like turtle and z omb iel and kids can compete with each other through challenges and create clubs to scale their learning they would also get awards and certificates for completing challenges , thus keeping learning competitive and encouraging 
+is hack erk id free 
+you can use hack erk id to play , learn and solve a certain amount of problems for free you can get unlimited access and learning by purchasing a premium subscription valid for 1 year 
+for this premium subscription , you ll get access to full game features access , full video library , full access to challenges , gateway to leader board , additional awards and badges , micro degree certificates , and access to clubs 
+who is hack erk id for 
+hack erk id allows kids from ages 7 17 to learn basic to advance coding skills through fun coding games the games use defined code blocks to teach syntax and programming logic to develop problem s olving skills in them 
+the games are segregated to suit the age and understanding of the kids as they advance in age , they can level up to other advanced games like html , c ss , javascript , and coding pirate 
+can my kid learn coding with hack erk id 
+currently , we have a vast library of python and javascript coding videos for kids to learn coding in an easy , fun , and comprehens ible fashion 
+after learning from these videos they can practice coding from the ide inside the platform which helps them to master what they are learning 
+the kids will be playing our interactive games to further shar pen their understanding of programming , thus learning to code better with the right guidance 
+what s the use of learning to code for young kids 
+hack erk id s gam ified self paced coding courses allow kids to develop their thinking , mathematical and analytical skills along with good problem s olving abilities 
+the advantages for kids include learning to create websites and build things as they wish it overall enhances their integration with the tech oriented world at a young age 
+how can i track my kid s progress in the course 
+hack erk id provides a specially dedicated scoreboard that shows the points awarded during the game and the total time spent on the platform an overall leader board evaluates your kid s performance and progress among other hack erk ids 
+parents can keep an eye on the score cards and leader boards to ensure their child remains encouraged and consistent through their learning journey moreover , we will send you weekly personalized newsletters wherein you can track your kid s assessment recorded during various activities and skill based performance 
+will my kid get any certificates or awards for their performance 
+yes , definitely at hack erk id , we provide kids with various awards , badges , and cert ifications when they complete a designated task , challenge , or level exceptionally well it helps encourage the kids to keep pushing for excellence and maintain consistency in learning 
+what is a club and how does it work 
+club is a feature where kids can form a group and interact with one another this club helps them to assess their learning and builds healthy competition among their friends to have an amazing learning experience 
+
+small town boy from tam il n ad u starts vern acular platform guvi for it learning
+ar un pra k ash was the first graduate in his family the 33 year old completed his b tech from set hu institute of technology , vir ud hun agar , tam il n ad u as his family could not afford it , he did not own a computer and brushed up his technical skills by writing programmes on paper and running them on computers at an internet caf things changed for the better , however , when he impressed the recruit ers at honey well with his technical skills 
+his professional journey for the next 13 years went off well with stint s at honey well aer ospace , k la ten cor and k alid o then in 2011 , ar un , his wife s ride vi ( 32 ) and his friend s p bal am ur ug an ( 32 ) conceptual ised the idea of guvi at that time , they were all working together at pay pal and decided to quit to dedicate more time to guvi c hen nai based guvi provides a platform to connect budding techn ologists with industry experts and bridges the skill gap needed in it companies , by sharing their technical learning as courses in vern acular languages and through a personal ised ment orship programme 
+on the startup s beginnings , ar un says , guvi started as a volunteering activity when we were working at pay pal in 2011 we started off with videos explaining technical jargon in native languages like tam il , tel ugu , hind i , b eng ali and k ann ada we got amazing feedback from learners not only from ind ia but across the globe like u k , can ada , g erman y , fr ance , us , sing apore the trio started guvi with a seed capital of rs 10 lakh until guvi was incub ated by i it m s r t bi , an online ment oring or learning platform , foc ussed on it based technical learning in vern acular languages the startup was then rewarded with a seed fund of rs five lakh guvi was officially launched in no ve mber 2014 and its youtube channel has gained more than one million views and has more than 5 , 000 subscribers bal am ur ug an holds m ca and m ba from ann a university before starting guvi , he was a techn ologist at pay pal s ride vi did her be in cs from s ast ra university and her career at honey well aer ospace was followed by stint s at t cs and pay pal customer acqu isition phase guvi acquired its first paid customer through youtube he was from u k and wanted ment orship to learn design patterns in java each course by guvi is a blend of video lectures that focus on context based learning , short notes , coding playground , assignment and assessment the video lectures are in vern acular languages , while the text contents are in english the platform allows users the option to choose the language of his her choice 
+the learners use the in built coding playground to practice and upload the assignments the analytics system tracks the user activity and unlocks new content as they progress in each level the game engine brings the gam ification elements into the system and rewards the user with points and badges as the lear ner achieves the goal the platform is hosted in aw s and is built on our very own custom built web stack , explains bal am ur ug an 
+currently , the technical videos are available in five languages tam il , tel ugu , b eng ali , k ann ada and hind i paid courses are available in tam il , which will be extended to other four languages by 2016 guvi hosts more than 500 technical videos in vern acular languages the startup offers courses from data structures , c , c , java , python , r or to advanced ones on big data , machine learning , r programming , i os and android the charges for online video courses range between rs 500 and rs 3 , 000 and for ment orship , between rs 15 , 000 and rs 35 , 000 guvi has partnered with more than 50 colleges in tam il n ad u , k arn ataka , mad hya pr adesh , od isha and and hra pr adesh currently , 72 people from ind ia , u k , us a and g erman y have been ment ored s ride vi says , all the videos are home grown and created by friends who are experts in the it industry however , we have started proc uring content from third parties also the content undergo es many rounds of review by our content cur ating team in the past eight months , guvi attracted a user base of 14 , 000 , among which 3 , 600 were paid customers majority of the users are from tam il n ad u , k arn ataka , and hra pr adesh , o dis a and b hop al going forward in 2016 , guvi wishes to add 36 it courses and 1 , 000 videos in the five languages ar un says they are aiming to target 10 per cent of online learning market in ind ia the i os and android app for guvi will be available soon for on the go learning by 2017 , 2 , 500 videos will be added in eight ind ian languages , with five per cent of the content in ar ab ic and sp anish , according to company projections and by 2018 , guvi intends to increase the number of videos by 5 , 000 with 10 per cent of online learning market in ar ab ic and sp anish and two per cent of the contents in g erman 
+the revenue generation started from j uly 2015 and till de cember , we have achieved an overall revenue of rs 11 lakh we expect to achieve rs 35 lakh by the end of this fiscal year your story s take according to a i ama i and k pm g report , english language content accounts for 56 per cent of the content on the internet , while ind ian languages account for less than 0 1 per cent but , a vast majority of ind ia s population prefers consuming content in their native language availability of local language content can open up multiple avenues and opportunities for startups to leverage applications like ins h orts , way 2 news , gu ps h up , hike , daily hunt , rever ie s language as a service are foc uss ing more on the local languages to cater to the next billion ind ian internet users the number of local language internet users in ind ia is growing at 47 per cent year on year and has touched 127 million in j une 2015 , revealed the i ama i and im rb international report 
+
+three tech ies in c hen nai have made it possible for students to learn programming in ind ian languages
+a website started by three c hen nai based professionals is helping students across ind ia overcome the english language barrier to learn programming , and to launch their careers in the field of information technology 
+guvi provides video tutorials , college courses , assignments , and practice papers to students who aspire to build careers in the field of information technology , and does so in english and vern acular languages , currently tam il , tel ugu , and k ann ada 
+founded by c hen nai based software professionals ar un pra k ash , s p bal am ur ug an and m s ride vi , guvi was born four years ago we went to our college in mad urai for an alumni meet , and because we were there after a long time , the expectation was that everything right from the infrastructure to teaching methodology and other aspects of the learning environment would have improved but we were disappointed to see that things were actually worse while the infrastructure had improved , the amount of exposure students received to the outside world remained the same 
+one thing that stood out was the fact that there were many talented students , but they were held back by the language barrier their sparse knowledge of english made it difficult for them to follow lessons , particularly those related to computers , said ar un 
+the trio returned to c hen nai and began thinking of ways to help these students soon , guvi was born , initially just as a youtube channel we started a youtube channel and started uploading instructional videos in vern acular languages for instance , if you wanted to learn coding or programming in your native tongue , you could do that , said ar un the channel soon had over 4 , 000 subscribers and more than a million views many students from tier 2 and tier 3 cities wrote in , letting them know that the videos had a positive impact on their lives this motivated the founders and they decided to quit their jobs to launch an official guvi platform that would make available mentors , practice material , and job opportunities 
+ar un had 14 years of experience in the it industry , and had worked with sym ant ec earlier bal am ur ug an and s ride vi had worked with pay pal leaving behind this cush ioned corporate life , the three of them registered guvi in no ve mber 2014 soon enough , the start up received a chance to work with the q ee e project , which aims to teach the python programming in 150 colleges in ind ia in local languages 
+in order to util ise guvi , students must create their accounts on the website , and in turn , they gain access to most of the videos free of cost students who opt to sign up for special packages , advanced courses , practice assignments , etc , have to pay fees ranging from rs 800 to rs 3 , 000 all the videos are made by industry professionals who work in the particular technology field if it is a video about android programming , a developer who has some six years of experience in the field makes it , or provides a voice over for it the content is made only by experts who have hands on knowledge , said ar un guvi has courses on programming ( from the beginner to expert levels ), databases , web development , and mobile development 
+stud ents with little knowledge of english or with no background in programming can simply use personal computers to log on to the portal and learn using the available instructional videos they can also use the various learning exercises to hone their skills their performance in these exercises is reflected in a profile , which is used as a resume by prospective employers to assess their skills the platform also gives reward points to users who practise and finish their courses , which is again visible on their performance profiles 
+ar un estimates that at least 30 , 000 students have benef itted from the portal and are now proficient in computer programming they use p cs to practice what they learn and are equipped with the right set of skills for different jobs the pay package these students attract is anywhere between rs 2 5 lakh to rs 12 lakh annually , depending on their skills and the field given that many of these students are first time graduates from their families , it s a huge step forward for them 
+guvi has a core team of nine people and an extended team of experts to help with content creation the team also works with colleges in c hen nai and co im bat ore so the latter can purchase their content and let their students use it for practice this helps spread the word about the website too 
+ar un is proud of the fact that the widespread reach of guvi has helped many talented girls gain access to a platform where they can learn , practise , and challenge assumptions about their expertise once , a hi tech startup company was hiring from guvi many people assume boys are better at programming than girls but we shattered this stereotype during the hiring process when the first person selected for the job was a girl this is a platform where girls too come and showcase their skills and this is mainly because they find role models here one of these is a girl who we ment ored and who now works as a developer she says if it were not for guvi , she would have been married and without a job by now , said ar un proudly 
+guvi has made knowledge that is useful to many students seeking careers in the it industry , accessible , regardless of their linguistic backgrounds with hard work and dedication , there is no reason that they cannot go forward , rise in their careers and fulfil their unt apped potential 
+
+i it mad ras inc ub ated startup guvi offers sk illing classes free of cost to students affected by cov id 19 related shutdown s
+chen nai : i it mad ras inc ub ated startup guvi is offering online it sk illing courses to prepare for campus plac ements free of cost to students who would have been impacted by the nation wide shutdown due to cov id 19 with final semester examinations fast approaching for engineering colleges , students would now be preparing for campus plac ements through training centres , some of which have now closed to prevent the spread of cov id 19 
+stud ents can subscribe on www guvi io to access the courses on the platform without having to pay any charges in addition to students affected by cov id 19 related shutdown , guvi is offering its platform to all engineering college students free of cost for a duration of two weeks 
+guvi , which offers an online platform for students to learn in their mother tongues , is offering specialized courses to up skill students and make them job ready without having to leave their house in addition , more than 100 techn ologists from top product companies have also volunteered to conduct 30 day free web inar sessions on the top it skills that the industry looks for , which the students can learn from home on guvi s platform free of charge 
+online mentors are also available to support the students to practice the concepts on their online coding platform code k ata 
+speaking about this initiative , m r s p bal am ur ug an , co founder and chief executive officer , guvi , said , we need to ensure the safety of students through all possible measures while also ensuring that they have the requisite skills for bright job prospects guvi is contributing in a small but significant manner towards these goals , to ensure the students acquire the right skills and are employ able our hiring partners have also been gracious in supporting us in this initiative 
+the mission of guvi is to take technology skills to all the deserving students and ensure dem ography is never a barric ade to acquire skills towards this , guvi offers technology skills that are in demand in the industry in regional languages such as tam il , tel ugu , k ann ada , hind i , b eng ali besides english guvi is transforming lives by offering tech skills in the language , which the students are familiar throughout their life and is brid ging the gap between academia and industry 
+guvi as an integrated ed tech platform in vern acular language has a deep penetration in ind ia , with a presence in over 1 , 000 engineering colleges it has already up skilled more than 2 14 lakh engineers in latest technology skills such as python , java and machine learning , among others and help them gain placement in it firms
+
+why is guvi the 1 best online personalized learning platform 
+the i it m & i im a incub ated ed tech company guvi ( grab ur vern acular imprint ) stands at the top to be the best online personalized learning platform being ind ia s first vern acular ed tech platform , guvi is accelerating in the e learning industry by providing comfortable it up sk illing & virtual tech training services to more than 1 9 million learners globally recently , guvi was awarded the title best online personalized learning platform ( education innovative awards ) by entrepreneur ind ia 
+when & how did guvi start itself in the ed tech industry 
+guvi began its journey in 2014 & it has been playing a key role in the digital era by persist ently upgrading the skill profiles of young tech aspir ants , early professionals , college students & other it job seekers through a vern acular approach to up sk illing 
+to understand more about guvi & its role in the e learning industry , a few media queries were asked to m r ar un pra k ash , founder & ce o of guvi , for winning the best online personalized learning platform his detailed answers regarding guvi s journey ahead with an inspiring vision & mission will motivate you also to pursue a tech career for a successful future 
+how do you feel about winning this award : best online personalized learning platform from ent reprene ur ind ia 
+ar un pra k ash : it is indeed a proud moment of recognition that acknowledges the quality of up sk illing through our virtual platform our team shares the joy of impart ing skills to every n ook & corner with hassle free online courses available in native languages that cover even rural & remote areas 
+what is all about the vern acular approach in courses & up sk illing in guvi 
+ar un pra k ash : more than 300 self paced tech courses are instructed in tam il , hind i , k ann ada , tel ugu & more such native languages other than just english , breaking the language barriers in learning skills guvi is all about delivering highly effective online learning experiences to its users alongside , a power move for tech job aspir ants is offered through our z en class career programs that provide professional career guidance & placement support through 600 top companies as hiring partners 
+what are the other initiatives or plans of guvi that benefit the learners 
+ar un pra k ash : guvi team always encourages the progressive thoughts of ms s ride vi ar un p rak ash , & one such thought is now is never too late to upgrade guvi team is all set to launch an empowering initiative , named the s rig e ek initiative , to greatly mobilize women with tech skills 
+about 8 grand virtual & irl events are being launched under this s rig e ek initiative from fe b ruary 20 23 to march 20 23 among these the most prominent events include a i for women , tech t alks with women ce os & c t os , empowering skill resources for economically challenged women , & she is back program for women to return back to the workforce after a career break 
+how do you think a i for women will be a successful initiative 
+ar un pra k ash : the motivation to launch ai for women comes from its successful precedent ai for ind ia the success story is written by hum ong ous responses from numerous aspir ants from remote areas vill ages that found tech sk ills accessible & at the same time under stand able their active participation in the ai for ind ia has made guvi create the gu inness world record for the most number of users to take a programming lesson in 24 hours , by beating the previous record by 50 times likewise , we aim to recreate the success through ai for women 
+what is the impact that you wish to make in the future with guvi 
+ar un pra k ash : guvi has been taking the lead in the ed tech space , up sk illing millions of learners worldwide by upholding the idea that language and authenticity should never be a barrier to quality education our team constantly strives to make impact ful progress among learners by launching the latest tech courses in many more native languages across 150 countries across the globe furthermore , progress around the world is seen through generating awareness of skill proficiency & tech talent over mon oton ous educational degrees 
+what are your thoughts on expanding the scope of guvi 
+ar un pra k ash : being a prestigious part of h cl group , guvi shares brand partnerships & collaboration with eminent partners like google for education , a ic te , aw s , and google cloud we are also offering courses & career programs that are accredited by renowned institutions like i it mad ras , u ip ath & n ass com these collaborations have largely democrat ized the learning experiences to the career aspiring learners online 
+the online boot c amps of guvi s certified career class provide skill specialization in various trending domains like full stack web development , data science , machine learning , automation testing , & dev ops we have focused on getting close to the career dreams of other creative aspir ants & launched u i ux , digital marketing , business analytics & other development courses soon , we d rise to cover all the tech domains that cover 1 2 million job opportunities in 20 23 
+
+guvi ( grab your vern acular imprint ) is an online learning platform that offers personalized learning solutions in more than 300 languages , including english , tam il , hind i , k ann ada , and tel ugu guvi s mission is to democrat ize tech education by providing high end tech skills to learners in their native languages , and connecting tech career aspir ants with the corporate industry 
+guvi offers courses in a variety of areas , including deep learning , machine learning , and angular , as well as a competitive programming playground with over 1 , 000 questions the platform tracks student learning activities and builds personalized user profiles , which are shared with recruit ers to help connect students with jobs guvi also offers career guidance and placement support 
+guvi is incub ated by i it m and i im a , and is supported by google launch pad and j io gen next courses are available for free learning , but certification comes at a nominal fee 
+
+ar un pra k ash is an ind ian entrepreneur known for his role as the founder and ce o of guvi , a prominent startup in the ed tech industry offering quality tech education in ind ian vern acular languages his strategic vision and leadership have positioned guvi as a leading player and pioneer in the field of vern acular educational technology 
+
+about z en z en class is one of the industry s leading project based full stack development program that promises 100 % job placement support on completing the course conducted by an i it mad ras incub ated company & designed by our founders ( ex pay pal employees ) also offers ment oring through experts from companies like google , micro soft , flip k art , z oho & fresh works for placing learners in top companies with high salaries this full stack developer program is designed to cover every technology in depth that leads to become a successful full stack developer
+
+about guvi
+founded in : 2014 ( 10 y rs old )
+owners hip : private
+ind ia employee count : 501 1 k
+global employee count : 501 1 k
+head quarters : c hen nai , tam il n ad u , ind ia
+office locations : c hen nai
+type of company : startup
+nature of business : product , b 2 c , b 2 b
+
+guvi ind ia s premier tech powered vern acular ed tech platform , incub ated by i it m , i im a , and a prestigious part of the h cl group , leads the way in tech up sk illing in regional & international languages with over 2 5 million global learners , guvi stands as a beacon of cutting edge solutions in tech education our strategic partnerships with google for education , a ic te , aw s , google cloud , i it m p rav art ak , u ip ath , and n ass com have revolution ized global tech education recognized among the top 10 companies with initial licenses from open ai , guvi continues to pioneer advancements in a i driven learning trusted by 1000 industry leading companies through guvi for cor por ates ( g fc ) and hy ren et an a i powered skill assessment tool , guvi aims to empower diverse learners to reach their full potential and sets the path to tech driven excellence 
+vision : to shape lives by best owing high end tech skills to learners in their native languages & connect the tech career aspir ants with the corporate industry 
+mission : to democrat ize tech education worldwide by meeting the standards of the ed tech industry 
+
+found ers and board of directors of guvi
+who are the ce o , founders and directors of guvi 
+mur ug as an ar un pra k ash , co founder & ce o , is a founder of 1 company and on the board of 1 company 1 email 
+bal am ur ug an sp , co founder , is a founder of 1 company and on the board of 1 company 1 email 
+s ride vi ar un p rak ash , ex co founder , is a founder of 1 company and on the board of 1 company 1 email 
+ab hin av gh osh , director , is on the board of 1 company and an angel investor in 1 company 
+p awan k umar dan war , director , is on the board of 1 company 
+
+how many employees does guvi have 
+guvi has 48 4 employees as of aug 23 the total employee count is 191 6 % more than what it was in aug 22 
+
+competitive landscape of guvi
+guvi has a total of 15 competitors and it ranks 1 st among them 
+
+guvi is an online regional language based education technology company incub ated at the research park in the ind ian institute of technology , mad ras , with support from the ind ian institute of management , ah med abad what started as a small initiative has since spawned a company the edu tech platform has been associated with at least 1 , 000 colleges 
+legal name : guvi geek network p vt l td
+head quarters : c hen nai , tam il n ad u , ind ia
+found ing date : 2014 no of employees : 61 to 100
+core team : 1 bal am ur ug an sp co founder 2 ar un pra k ash m co founder & ce o 3 s ride vi ar un p rak ash co founder
+
+f requently asked questions
+1 how to get certified 
+ans : to get certified in a course , you need to finish all the quizz es and submissions ( if any ) successfully with 100 % progression 
+2 progression is 100 % but the certificate is not loading gener ating what should i do 
+ans : please clear browser history and then try again log out and login and then try again 
+3 i don t know the answer for this quiz , can i still get certification 
+ans : please make sure you complete the quiz with the correct answer and you can try answering it for an unlimited number of times 
+4 how can i change my name on my certificate profile 
+ans : please follow the steps : go to your profile edit your name refresh your browser ( ctrl f 5 ) regenerate your certificate 
+5 where can i find the certificate where is the get certified option 
+ans : you can find the get certified option at the end of the lessons in the table of contents it will be shown only after completing all the lessons with 100 % progress 
+6 cannot download certificate blank screen appears
+ans : the certificate will be automatically downloaded please check your downloads folder , the certificate will be downloaded as a pdf file please try google chrome for better results 
+7 course x is not available in y language 
+ans : i m really sorry about but we are trying our best to bring courses in as many regional languages as possible i ll forward this to the concerned team and they will look into this be assured that it will be available in the future 
+8 any offer for students 
+ans : yes , we are giving deep learning courses taught by i it m certification for just 1000 only for students 
+9 what can i do with geek o ins 
+ans : geek o ins can be used to purchase courses and purchase run counts which will be very useful in cod ek ata 
+10 what is your refund policy i want refund for my course 
+ans : you can cancel any purchase you made with our courses within the first 7 days if you re not satisfied 
+and the refund will be credited to your account in 3 business from the day we refund 
+11 where can i find the courses 
+ans : please visit this link https : www guvi in c ourses to view our course library 
+12 i m not able to login please help 
+ans : please refresh your browser c trl shift r if windows and cmd shift r if mac and then try again also , try it in a different browser 
+
+how much does guvi cost
+guvi costs around 123 , 900 on the lower end , some guvi courses like full stack development cost 89 , 999 
+
+what courses does guvi teach 
+guvi offers courses like business analytics & digital marketing , data engineering , full stack development , full stack java developer and 1 more 
+
+where does guvi have campuses 
+guvi teaches students online in a remote classroom 
+
+is guvi worth it 
+guvi hasn t shared alumni outcomes yet , but one way to determine if a boot camp is worth it is by reading alumni reviews 0 guvi alumni , students , and applicants have reviewed guvi on course report you should start there 
+
+is guvi legit 
+so far , it s hard to say because guvi has no reviews 
+
+guvi is an online platform to learn computer programming based in ind ia it offers free and paid coding courses to students and working professionals in ind ian languages such as hind i , tel ugu , k ann ada , b eng ali , tam il , and in english 
+
+
+python course
+ac celer ate your career
+i it m p rav art ak certified python course to help you learn the basics of python , the most powerful , versatile and in demand programming language today start from scratch , and gradually move towards the level where you can write programs to gather , clean , analyze , and visualize data 
+what is a python course 
+a python course is a structured program that teaches individuals how to write , read , and understand code in the python programming language the course covers various topics , including basic programming concepts , data types , control structures , and functions 
+which is the best online python course 
+the best online python course is one that matches your learning goals , experience level , and preferred learning style at guvi , our python course is designed for beginners with no prior coding experience , making it a great choice for those looking to start their python journey you can access the complete course modules for free 
+how to learn a python course 
+to learn a python course , enroll in an online program like guvi s self paced free python course , which provides interactive lessons , quizz es , and assignments you can also find resources like python documentation , books , and video tutorials to supplement your learning 
+why learn python courses online 
+learning python courses online allows you to access high quality educational resources from anywhere in the world , at any time that suits you online courses also tend to be more affordable than traditional classroom based programs and offer flexible learning options to fit your schedule 
+what are the benefits of learning python from guvi 
+learning python from guvi provides several benefits , including :
+begin ner friendly curriculum designed for those with no prior coding experience
+self paced program with interactive lessons , quizz es , and assignments
+i it m certification upon completion to showcase on your resume 
+free access to complete course modules , pay a nominal fee for i it m p rav art ak certified python certification 
+access to an online community for support and networking opportunities
+aff ordable pricing and flexible learning options 
+
+java course overview
+master all the fundamentals of java programming and learn to code like a pro with this java online course that has been designed and taught by industry experts with years of experience in tech throughout this course , you will learn major java concepts such as object oriented programming ( oop ) using java , j sp , serv lets , and mysql , along with design principles , best coding practices , and how to write code like a professional developer you will be able to implement all that you learn with real world projects and build a great portfolio that will help you excel at interviews after completing this course , you will gain a certificate that will help your resume stand out from others when applying for developer roles 
+what is a java programming course 
+this java online course teaches you all the fundamental concepts that help you master java programming and build scalable and secure software applications , creating a well established career as a successful software developer in a java programming course , you will learn concepts like object oriented programming ( oop ) using java , j sp , serv lets , mysql , and much more that will help you scale greater heights in your tech career 
+how to learn java programming online course 
+you can start learning java at any time and from anywhere you wish with this java programming online course as it is self paced you will be able to master all the essential java concepts with this curriculum , designed and taught by experts along with various modules and tests all you need is dedication and focus toward learning and building your career 
+what is a java certification course 
+a java certification course is an online course that awards you with a globally recognized , job ready certificate upon its completion you are able to master all of the core concepts of java programming and learn how to build scalable , extensive , and secure software applications along with gaining a certificate to showcase your newly gained skills to your future employers such a certificate is like a validation of your java coding skills and reflects on your compet ency in the tech world 
+why learn java 
+learning java is extremely beneficial as it is one of the most extensively used programming languages in the world and has always been an in demand skill to have java is known to power android , which is the most widely used operating system across the globe and hence its power cannot be under valued it has been greatly used to construct software applications , data centers , scientific super com puters , cell phones , game consoles , and much more 
+why choose guvi for a java programming course 
+the java programming certification course offered by guvi is considered to be one of the best in the industry as it is designed and taught by industry experts , is completely self paced , and rewards you with a globally recognized , job ready certificate with this course , you will learn all the fundamental concepts of java programming such as j sp , serv lets , mysql , object oriented programming ( oop ) using java , and much more that will help you scale greater heights in your tech career 
+
+mobile hacking
+ac celer ate your career
+master key mobile hacking techniques and technologies from scratch through this comprehensive online mobile hacking course with global certification learn to secure mobile devices and networks with self paced learning and emerge as a skilled mobile security expert with a strong footing in the ethical hacking domain 
+what is the overview of guvi s mobile hacking certification course 
+the mobile hacking course is designed to provide you with a comprehensive understanding of mobile security vulnerabilities and hacking techniques you ll learn to use various tools and technologies that are needed to protect mobile devices from potential threats or attacks while developing a good understanding of the mobile security infrastructure
+why learn the mobile hacking course 
+in today s digital landscape , where mobile devices play a crucial role in our personal and professional lives , it is essential to have the knowledge and skills to protect against potential threats you can easily gain the necessary knowledge , resources , and method ologies by learning this mobile hacking course from guvi 
+why choose guvi for learning the mobile hacking course 
+there are numerous reasons to learn the mobile hacking course from guvi with guvi , you can master mobile hacking from a beginner to an advanced level quickly and at an affordable cost you will learn through a comprehensive curriculum that offers in depth tutorials from industry experts , which come with lifetime access you ll also gain a globally recognised certification from an i it m and i im a incub ated company , which will be a huge add on during job search and skill display 
+what are the benefits of learning mobile hacking certification 
+there are numerous benefits to learning mobile hacking with certification guvi provides a globally recognized certificate in mobile hacking , which will significantly boost your career prospects in ethical hacking and cybersecurity domains by showcasing your expertise in mobile hacking and the ways to counter potential attacks you ll gain sought after skills and become an expert in mobile hacking , enabling you to get better job opportunities and higher credibility 
+is the mobile hacking course difficult to learn 
+not at all the mobile hacking course is designed for both beginners and professionals , breaking down complex hacking techniques and topics into easily understandable modules 
+how long does it take to learn mobile hacking 
+the mobile hacking course is completely self paced , allowing you to complete it at your convenience most learners are able to complete it within a few weeks , depending on their dedication and prior knowledge however , consistent practice across a couple of months is needed to completely master the course learn ings 
+how much does the mobile hacking certification course cost 
+the mobile hacking certification course comes at a competitive price that ensures everyone can learn at a very affordable price 
+
+c programming tam il
+ac celer ate your career
+learn to write strong and efficient code in c with this beginner friendly certification course in c programming in tam il and become industry ready 
+master c programming in tam il from its very foundation to its advanced concepts with this comprehensive and beginner friendly c programming course in tam il that has been crafted and taught by industry experts with years of experience throughout the course , you will learn important concepts such as scope and lifetime , operators , branching and loops , command line arguments , file operations , pre processor directives , typed ef , and much more the practical approach throughout the course will enable you to practice and apply what you learn by practicing on our award winning platforms the course is completely self paced and you will gain a globally recogn ized certificate at the end to showcase the skills you gained 
+what is c programming 
+c programming is a general purpose , procedural programming language that was developed in 1972 by d ennis r itchie at bell labs it is widely used for developing operating systems , device drivers , and other high performance software c programming language is fast , efficient , and provides low level memory access , making it suitable for system programming and embedded systems most of the applications and operating systems that we use today have their roots written in c , hence it s a no brainer that it s a must know language for all developers 
+why learn c programming in tam il 
+learning c programming in tam il is beneficial for several reasons first ly , it is a fundamental language that lays the groundwork for other languages secondly , c is a high performance language used in systems programming and embedded systems last ly , learning c enhances problem s olving skills and promotes efficient programming practices which are all essentials for a good developer 
+why choose guvi for learning c programming online course in tam il 
+the c programming course in tam il offered by guvi is an industry leader and will allow you to master coding in c within weeks in this course , you will learn c programming in tam il from industry experts through in depth sessions and quiz exercises this course is designed to provide a strong foundation in c programming concepts and enable you to develop efficient and reliable code join guvi to kick start your c programming journey today and gain the skills to become job ready 
+what are the benefits of learning a c programming certification course in tam il 
+learning via an online c programming course with certification in tam il offers numerous benefits , including the ability to develop efficient and robust computer programs with ease and an increased standing in front of potential employers c is a foundational programming language used in various fields , making it an essential skill to possess additionally , mastering c programming enables professionals to work on low level system development , firmware , and embedded systems , among other things 
+is c programming difficult to learn 
+learning c programming can be challenging for beginners due to its syntax and low level nature , but with practice , patience , and a learning partner like guvi it can be a cake walk like any programming language , it requires time and effort to master , but through proper training by our industry experts and a series of quizz es , you can master it and code like a pro in no more than a few weeks 
+
+aws
+ac celer ate your career
+this aw s training and certification course is vital for every individual aspiring to become an aw s certified solutions architect and will equip you with all the knowledge and skills needed to achieve the same 
+this aw s course has been curated and taught by aw s cert ified mentors as well as industry experts so that you can master all the key aw s architectural principles such as v pc , i am , ec 2 , sn s , as well as sq s and succeed in your efforts of becoming an aw s certified solutions architect certified by n ass com , this aw s training and certification course is aligned with the latest aw s exam and consists of all the new changes in sa a c 02 along with the concepts of sa a c 01 learn at your own pace and prepare for the exam of aw s certified solutions architect associate along with earning a globally recognized certificate upon completion of the course 
+what is an aw s course 
+an aw s course is an online training program that equ ips you with all the skills necessary to efficiently work with the aw s cloud environment and successfully clear the aw s certified solutions architect associate exam you will be able to master all the key aw s architectural principles such as v pc , i am , ec 2 , sn s , sq s , and much more 
+who can learn the aw s course 
+this aw s training and certification course is for any individual with a focus on successfully clearing the exams of aw s certified solutions architect associate develop er associate sys ops administrator associate or students and fres hers as well as working professionals aiming to build ad vance their career in cloud computing with a focus on aw s 
+what is the aw s certification course 
+the aw s certification course is an online , self paced program that helps you to prepare for the aw s certified solutions architect and other exams so that you can build your career as an aw s cloud expert this program equ ips you with the latest skills in aw s taught by aw s cert ified mentors as well as industry experts and you get a globally recognized certificate upon completion of the course 
+how can beginners learn an aw s course 
+if you are a beginner and wish to learn all the aw s fundamentals and become an aw s certified solutions architect , then one of the best ways is to enroll in an aw s beginner course that will take you from level zero to an expert comprehens ively this aw s course offered by guvi is self paced , curated , and taught by aw s cert ified mentors and is always updated with the latest updates made by am azon 
+how to take the aw s certification exam 
+in order to take the aw s certification exam , you must sign in to aw s and register for the examination the aw s certification exams are mostly administered at k ry ter ion testing centers in more than 750 locations worldwide now , you also take the aw s certification exam online at home in a pro ct ored environment 
+which aw s certification is best 
+as different aw s cert ifications assess different sets of skills , most of them are the best for and used to certify their specific skill sets but the internet and salary ratings favor some over others also due to the job vacancies and the field they belong to they are aw s certified solutions architect associate , aw s certified sys ops administrator associate , and aw s certified developer associate 
+why learn aw s 
+in our day to day lives , we make use of cloud computing services extensively and so do all kinds of corporations major or minor for net banking , social media , storage purposes , and much more this proves that we are going to heavily rely on cloud services in the future and hence the career prospects and job opportunities will always be soaring high hence , learning about the aw s environment will not only benefit cloud professionals and students but also individuals or organizations that want to boost their business 
+what job opportunities are available after learning aw s 
+there are bound less high paying job opportunities and prospects available after learning and being aw s certified such as cloud architect , cloud developer , cloud systems administrator , cloud dev ops engineer , cloud security engineer , cloud network engineer , cloud data architect , etc 
+what can i learn from aw s 
+aws helps learners understand and build credible , high quality could computing solutions to real world problems , and an aw s certification en ric hes them with confidence and credibility by endorsing their cloud expertise with an industry recogn ized certificate and helps organizations to pick out skilled professionals that can lead cloud initiatives leveraging aw s 
+who can take this aw s course 
+this aw s certification training course can be taken up by any individual aiming to clear the aw s certification exams and build their career as an aw s certified solutions architect associate , aw s certified developer associate , aw s certified sys ops administrator associate and many such high paying , major roles this aw s course is also for students , fres hers and working individuals that wish to broaden their career aspects and add aw s cloud computing to their bag of skills 
+
+angular course english
+ac celer ate your career
+this angular certification course will help you master the skills of building a full f eatured web app from scratch by gaining proficiency in the essentials of angular 
+angular english course overview
+this beginner friendly angular course will equip you with all the tools necessary to build highly responsive and complex single page applications learn about the fundamentals of this popular javascript framework by implementing them yourself with the help of industry experts you will learn about the component based architecture of angular along with dependency injection , two way data binding , comprehensive routing , etc with this angular certification course along with that , you can learn at your own pace , anytime and anywhere with lifetime access and also earn a globally recognized certificate upon completion of the course 
+what is angular training 
+an angular course will train you to effectively grasp front end web development with angular and create highly scalable and responsive single page web applications you will gain an in depth knowledge of angular fundamentals along with how to implement them 
+why is the angular course popular 
+the angular certification courses are popular because angular itself is a highly popular javascript front end framework that offers fast responsiveness and a rich user experience it allows one to build single page applications as well as full fledged , large scale web applications for huge platforms this angular course for beginners will teach you all that you need to become a pro with angular and build real world projects 
+what are the skills i get after learning angular 
+after learning angular , you will be proficient in a very well known aspect of web development being able to create responsive and high quality web applications you will be able to code with angular , learn to use git , make custom angular components , dependency injection , two way data binding , comprehensive routing , as well as develop web pages and applications 
+how to become an angular developer 
+in order to become an angular developer , you need to be proficient with the angular framework , html and c ss , rest ful ap is , typ esc ript , r x js , npm , and be able to use the github repository you must be confident in building highly responsive and scalable web applications using angular and these other skills to be a successful angular developer and a great way to start would be with this angular course for beginners that will give you a tight grasp of the angular framework and how to implement it efficiently to build great web apps 
+how do beginners learn an angular course online 
+there are multiple angular certification courses for beginners available online , all you need to do is understand your requirements and choose one accordingly for instance , this course offered by guvi is one of the best angular courses available online and is curated as well as taught by industry experts additionally , you can learn at your own pace , anytime , anywhere , and gain a globally recognized certificate to showcase your skills upon completion 
+
+dark web
+ac celer ate your career
+learn and master all the secrets behind the dark web with this comprehensive certification course that will deep dive into all of its basic as well as more advanced concepts 
+dark web course overview
+in this beginner friendly dark web course , you will learn and implement all of its fundamental concepts with guidance along with top tricks from industry experts who have experienced it all first hand throughout this course , you will be mastering concepts such as how to properly and securely discover data and websites on both the dark web and clear web , access hidden ( on ion ) services , communicate privately and anonymously using instant messages and email , manually use end to end encryption to protect your privacy , sign and verify files , share files anonymously , transfer funds anonymously using cryptocurrencies such as bitcoin and much more exciting stuff the course is completely self paced and you will gain a globally recogn ized certificate at the end to showcase the skills you gained to stand out in interviews 
+what is a dark web course 
+a dark web course teaches individuals how to navigate and use the dark web as well as its inner workings the dark web is a part of the internet that is not indexed by search engines and is often associated with illegal activities dark web courses can cover topics such as anonymous browsing , tor networks , and cryptocurrency transactions hence , it is an extremely important skill to have for tech professionals today 
+why learn a dark web course 
+learning about the dark web can be beneficial for individuals interested in gaining a deeper understanding of the internet and its complexities the dark web is often associated with illegal activities , but it can also be used for legitimate purposes , such as protecting online privacy and anonymity by taking up a dark web course , individuals can learn about the technical aspects of this hidden portion of the internet and gain in demand skills in cybersecurity as well as online safety 
+why choose guvi for learning the dark web 
+the dark web course offered by guvi provides a comprehensive beginner to advanced approach with structured learning material , access to experienced industry experts , and award winning practice platforms moreover , guvi offers flexible learning options that cater to the individual needs and schedules of learners with this dark web course from guvi , learners can gain a deep understanding of the dark web and its associated risks and benefits 
+
+web development course bundle
+ac celer ate your career
+we have managed to come up with a holistic plan grow 10 x web development courses with certificates bundle it s an essentials bundle package with 10 web development courses for the price of just one our most selling g 10 x pack contains the best online web development courses with cert ifications 
+web development bundle course overview
+there are many web development courses available online , which offer a basic curriculum for a hefty price tag , our web development bundle , on the other hand , offers the complete development approach , so that you re not missing out on anything this self paced course was designed for you to either watch in order , or to skip around module by module 
+what is a web development course bundle 
+it s a web development essentials plan with 10 courses for the price of just one with this bundle , you can get certified in : computational thinking , modern html & c ss , javascript , angular , flask , red is with python rest ful api , m ong od b , mysql , aw s & machine learning 
+why choose this web development course bundle from guvi 
+we update this course frequently to ensure that you learn the most up to date skills there is no wasted time here this is the course that outlines all the topics , and a defined web development roadmap to becoming a skilled web developer 
+what are the benefits of learning a web development course 
+this is a course bundle that sup ersed es all levels even if you re a novice , you ll go from absolutely zero : to where you know how the internet works to mastery : run supervised un super vised ml algorithms for web applications and all the other essential web technologies 
+what are the requirements to learn a web development course 
+there are no such pre requisites just equip yourself with a sound system & working internet , and you re good to go 
+what will i learn from the guvi web development combo course 
+you ll learn a foundational understanding of the web development ecosystem , the building blocks of a website & what technologies it takes to write a fully functional , visually enriched website 
+
+i m from a non engineering background or new to programming can i take this course 
+we aim to create job opportunities for all students we offer a pre boot camp to assess your readiness for the z en boot camp if you need extra preparation , our mentors will guide you with additional guvi lessons 
+what will be tested to clear the pre boot camp test 
+basic level questions : this will help us identify your ability to read and debug the given code your comfort level around understanding loops & conditional statements will be evaluated 
+adv anced coding question : here we will try to understand your current knowledge of coding in order to place you in the classroom & customize the program schedule to your needs 
+basic apt itude : we will analyze your basic communication & apt itude skills as early as possible these skills will help us in arranging the mock interviews after the main boot camp 
+which companies will i be given opportunities under placement guidance 
+you will have potential opportunities with over 1 , 000 companies through our placement guidance , including prominent names like pay pal , fresh works , z oho , j us pay , d bs , sc ap ic , or ang escape , and many more 
+what is the duration of this course 
+online live batch : 3 months ( m onday to fr iday ) 5 months ( s aturday & sund ay )
+what is the cap stone project all about and how will it help me 
+as part of the cap stone project , the participants are required to build their own application by the end of the course which can be added to their github profile with an emphasis on learning by doing , the boot camp course helps participants working on building their application from the 1 st week itself at the end , the participant builds his own application understanding the software development process , code review process , and also learns the best practices in coding and utilization of cloud & dev ops tools etc 
+what is mean and m ern stack 
+mean m ong od b , express js , angular js & node js
+mer n m ong od b , express js , react js & node js
+what is meant by full stack development course 
+the full stack development course systematically covers the fundamental technologies essential for aspiring full stack developers it comprises five distinct segments : front end , backend , database , other essential technologies , and debugging version control 
+will i get a refund after joining the main boot camp 
+no , you will not be able to claim the refund once you ve entered the main boot camp phase 
+how do i complete this course 
+being a project based curriculum , every student has to work & submit the projects with our industry experts guidance mc qs & assessments help evaluate your performance after the successful completion of the course , guvi will grant a globally recognized course completion certificate 
+what is the seat blocking procedure any pre book ing charges 
+you can book your seats with a 8 , 000 pre book charge it is a refund able amount it is for booking your slot so that you may not miss your preferred batch 
+what if i miss any live classes how long do i have access to the learning contents and practice platforms 
+guvi provides you with a recording of every class with unlimited access to all the practice platforms so , you barely get a chance to miss out on anything while being a gu v ian 
+who is u i ux for 
+any one aspiring to explore the world of user interface & user experience driven products & keen ly interested in developing their creative thinking and problem s olving abilities is welcome to enroll in this course 
+how to clarify doubts 
+our 24 x 7 support team is always within your reach , where you can clarify your doubts within 24 hours times pan in addition , you also have guvi forum where you can ask your doubts and get them clarified 
+what is data engineering 
+data engineering is the technique of designing and creating systems that can efficiently collect , store , and interpret data for analytical or operational uses it is an aspect of data science that focuses on practical data applications 
+who is eligible for this program 
+there is just one eligibility criteria for z en class : students & working professionals seeking an opportunity to up skill their data engineering proficiency for faster career growth to keep the chances fair , we provide a pre boot camp session for z en class interested students to understand how ready they are to be a data engineer a small eligibility test is conducted right after the pre boot camp will provide you with a final ticket to be part of z en boot camp 
+what tools are covered in this data engineering program 
+the tools & technologies covered in this program include python , sql , shell script , orchestr ator , cloud services , big data , data cleaning , data visualization , etc 
+
+what is dev ops course 
+dev ops is a software development methodology that combines software development ( dev ) with information technology operations ( ops ) participating together in the entire service lif ecycle , from design through the development process to production support 
+what is system requirements 
+processor : i 5 i 7 , ram : 8 gm & above h dd : , 500 gm & above or s sd ( pre f ered )
+install ation tools required of dev ops tools 
+vag rant box , register & creation of aw s , github accounts , git cl i installation
+who is eligible for this master dev ops program with guvi certification course 
+the only eligibility criteria that we have for the guvi dev ops is for the graduates & working professional , is seeking opportunities to up skill for faster career growth to keep the opportunities fair , we provide a pre boot camp session for z en class interested students as a way to understand how ready they are to be a dev ops a small eligibility test is conducted right after the pre boot camp will provide you with a final ticket to be part of z en boot camp 
+i m from a non engineering background or new to programming am i eligible for this course 
+with the objective of creating as many job opportunities for our students , we do intend to help every student who is willing to make the extra catching up needed in terms of programming & development logic we assess this via a comprehensive pre boot camp where you can understand how ready you are for the z en boot camp in case you don t make the eligibility , our mentors will charter the course ahead s for you with some guvi lessons 
+what is the cap stone project all about and how will it help me 
+as part of the cap stone project , the participants are required to build their own application by the end of the course which can be added to their github profile with an emphasis on learning by doing , the boot camp course helps participants working on building their application from the 1 st week itself at the end , the participant builds his own application understanding the software development process , code review process , and also learns the best practices in coding and utilization of cloud & dev ops tools etc 
+
+guvi stands as a testament to the transformative power of online education in equ ipping individuals with the skills they need to thrive in today s digital world through its commitment to quality , accessibility , and innovation , guvi continues to empower learners and contribute to the growth of the global tech ecosystem 
+this overview captures the essence of guvi , its mission driven approach to education , and its impact on learners and the tech industry 
+
+guvi is a pioneering force in the ed tech landscape , dedicated to making quality technical education accessible to all its innovative approach , diverse course offerings , and strong community support make it a valuable resource for anyone looking to build or advance a career in technology as guvi continues to grow and evolve , it remains committed to empowering learners and contributing to the development of a skilled and inclusive tech workforce 
